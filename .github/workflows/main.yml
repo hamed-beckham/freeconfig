@@ -1,0 +1,285 @@
+name: Test V2Ray configs
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 */6 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: test-v2ray-configs
+  cancel-in-progress: true
+
+env:
+  CONFIG_URLS: |
+    https://raw.githubusercontent.com/v2rayCrow/Sub-Link-Output/refs/heads/main/all.txt
+  OUTPUT_JSON: outputs/working-configs.json
+  COUNTRY_STATS_JSON: outputs/country-stats.json
+  OUTPUT_TXT: outputs/working-configs.txt
+  COUNTRY_LIMIT: "20"
+  THREADS: "50"
+  MAX_DELAY_MS: "5000"
+  TIMEOUT_MS: "5000"
+  RETRIES: "1"
+
+jobs:
+  test-configs:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install tools
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y unzip
+
+      - name: Install xray-knife
+        run: |
+          mkdir -p "$RUNNER_TEMP/xray-knife"
+          curl -L -o "$RUNNER_TEMP/xray-knife.zip" \
+            https://github.com/lilendian0x00/xray-knife/releases/latest/download/Xray-knife-linux-64.zip
+          unzip -oq "$RUNNER_TEMP/xray-knife.zip" -d "$RUNNER_TEMP/xray-knife"
+          XRAY_KNIFE_BIN="$(find "$RUNNER_TEMP/xray-knife" -type f -name xray-knife | head -n 1)"
+          test -n "$XRAY_KNIFE_BIN"
+          sudo install -m 0755 "$XRAY_KNIFE_BIN" /usr/local/bin/xray-knife
+          xray-knife --help
+
+      - name: Download configs
+        run: |
+          mkdir -p outputs
+          : > downloaded-configs.txt
+          while IFS= read -r url; do
+            if [ -z "$url" ]; then
+              continue
+            fi
+            echo "Downloading configs from $url"
+            if ! curl -L --fail --retry 3 --retry-delay 5 "$url" >> downloaded-configs.txt; then
+              echo "::warning::Failed to download configs from $url"
+            fi
+            printf '\n' >> downloaded-configs.txt
+          done <<< "$CONFIG_URLS"
+          python3 <<'PY'
+          import base64
+          import re
+          from pathlib import Path
+
+          protocols = (
+              "vless://",
+              "vmess://",
+              "trojan://",
+              "ss://",
+              "tuic://",
+              "wireguard://",
+          )
+
+          raw = Path("downloaded-configs.txt").read_text(encoding="utf-8", errors="ignore")
+          candidates = set()
+
+          def add_links(text):
+              for token in re.split(r"[\r\n]+", text):
+                  link = token.strip()
+                  if link.startswith(protocols):
+                      candidates.add(link)
+
+          def try_base64(text):
+              compact = re.sub(r"\s+", "", text)
+              if not compact:
+                  return
+              padding = "=" * (-len(compact) % 4)
+              try:
+                  decoded = base64.b64decode(compact + padding, validate=False)
+              except Exception:
+                  return
+              add_links(decoded.decode("utf-8", errors="ignore"))
+
+          add_links(raw)
+          try_base64(raw)
+          for line in raw.splitlines():
+              if not line.strip().startswith(protocols):
+                  try_base64(line)
+
+          Path("configs.txt").write_text("\n".join(sorted(candidates)) + "\n", encoding="utf-8")
+          PY
+          sort -u configs.txt -o configs.txt
+          echo "Downloaded $(wc -l < configs.txt) unique configs"
+
+      - name: Test configs with xray-knife
+        run: |
+          xray-knife http \
+            --file configs.txt \
+            --out raw-results.csv \
+            --type csv \
+            --sort \
+            --thread "$THREADS" \
+            --mdelay "$MAX_DELAY_MS" \
+            --timeout "$TIMEOUT_MS" \
+            --retries "$RETRIES" \
+            --rip
+
+      - name: Build JSON output
+        run: |
+          python3 <<'PY'
+          import csv
+          import json
+          import time
+          import urllib.request
+          from collections import Counter, defaultdict
+          from pathlib import Path
+
+          country_limit = int("${{ env.COUNTRY_LIMIT }}")
+          output_path = Path("${{ env.OUTPUT_JSON }}")
+          stats_path = Path("${{ env.COUNTRY_STATS_JSON }}")
+          txt_path = Path("${{ env.OUTPUT_TXT }}")
+          rows = []
+
+          with open("raw-results.csv", newline="", encoding="utf-8") as handle:
+              for row in csv.DictReader(handle):
+                  status = (row.get("status") or "").strip()
+                  delay = (row.get("delay") or "").strip()
+                  if status not in {"passed", "semi-passed"}:
+                      continue
+                  if not delay or delay == "-1":
+                      continue
+                  rows.append(row)
+
+          ips = []
+          for row in rows:
+              ip = (row.get("ip") or "").strip()
+              if ip and ip != "null" and ip not in ips:
+                  ips.append(ip)
+
+          geo = {}
+          for index in range(0, len(ips), 100):
+              batch = ips[index:index + 100]
+              body = json.dumps(batch).encode("utf-8")
+              request = urllib.request.Request(
+                  "http://ip-api.com/batch?fields=status,query,country,countryCode,city,isp",
+                  data=body,
+                  headers={"Content-Type": "application/json"},
+                  method="POST",
+              )
+              try:
+                  with urllib.request.urlopen(request, timeout=30) as response:
+                      for item in json.loads(response.read().decode("utf-8")):
+                          if item.get("status") == "success":
+                              geo[item.get("query", "")] = item
+              except Exception as exc:
+                  print(f"Geo lookup failed for batch starting at {index}: {exc}")
+              time.sleep(1)
+
+          candidates = []
+          for row in rows:
+              ip = (row.get("ip") or "").strip()
+              info = geo.get(ip, {})
+              candidates.append({
+                  "link": row.get("link", "").strip(),
+                  "ping": f"{row.get('delay', '').strip()}ms",
+                  "ip": ip,
+                  "country": info.get("country", ""),
+                  "city": info.get("city", ""),
+                  "ISP": info.get("isp", ""),
+                  "_countryCode": info.get("countryCode", ""),
+              })
+
+          candidates.sort(key=lambda item: int(item["ping"].removesuffix("ms")))
+
+          output = []
+          country_counts = defaultdict(int)
+          for item in candidates:
+              country_key = item["country"] or item["_countryCode"] or "Unknown"
+              if country_counts[country_key] >= country_limit:
+                  continue
+              country_counts[country_key] += 1
+              output.append({
+                  "remark": f"server{len(output) + 1}",
+                  "link": item["link"],
+                  "ping": item["ping"],
+                  "ip": item["ip"],
+                  "country": item["country"],
+                  "countryCode": item["_countryCode"],
+                  "city": item["city"],
+                  "ISP": item["ISP"],
+              })
+
+          stats_counter = Counter(item["country"] or "Unknown" for item in output)
+          country_codes = {
+              item["country"] or "Unknown": item["_countryCode"]
+              for item in candidates
+              if item["country"] or item["_countryCode"]
+          }
+          stats = {
+              "total": len(output),
+              "countryLimit": country_limit,
+              "countries": [
+                  {
+                      "country": country,
+                      "code": country_codes.get(country, ""),
+                      "count": count,
+                  }
+                  for country, count in sorted(
+                      stats_counter.items(),
+                      key=lambda pair: (-pair[1], pair[0]),
+                  )
+              ],
+          }
+
+          output_path.write_text(
+              json.dumps(output, ensure_ascii=False, indent=2) + "\n",
+              encoding="utf-8",
+          )
+          stats_path.write_text(
+              json.dumps(stats, ensure_ascii=False, indent=2) + "\n",
+              encoding="utf-8",
+          )
+          txt_path.write_text(
+              "\n".join(item["link"] for item in output) + "\n",
+              encoding="utf-8",
+          )
+          print(f"Saved {len(output)} working configs to {output_path}")
+          print(f"Saved country stats to {stats_path}")
+          print(f"Saved sorted config links to {txt_path}")
+          PY
+
+      - name: Add country stats to summary
+        run: |
+          {
+            echo "## Country stats"
+            echo
+            python3 - <<'PY'
+          import json
+
+          with open("${{ env.COUNTRY_STATS_JSON }}", encoding="utf-8") as handle:
+              stats = json.load(handle)
+
+          print("| Country | Code | Configs |")
+          print("| --- | --- | ---: |")
+          for item in stats["countries"]:
+              print(f"| {item['country']} | {item['code']} | {item['count']} |")
+          PY
+          } >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Upload JSON artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: working-configs
+          path: |
+            outputs/working-configs.json
+            outputs/country-stats.json
+            outputs/working-configs.txt
+
+      - name: Commit output changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add outputs/working-configs.json outputs/country-stats.json outputs/working-configs.txt
+          if git diff --cached --quiet; then
+            echo "No JSON changes to commit"
+          else
+            git commit -m "Update working V2Ray configs"
+            git push
+          fi
