@@ -1,0 +1,96 @@
+{
+  "total": 137,
+  "countryLimit": 20,
+  "countries": [
+    {
+      "country": "France",
+      "code": "FR",
+      "count": 20
+    },
+    {
+      "country": "Germany",
+      "code": "DE",
+      "count": 20
+    },
+    {
+      "country": "The Netherlands",
+      "code": "NL",
+      "count": 20
+    },
+    {
+      "country": "United States",
+      "code": "US",
+      "count": 20
+    },
+    {
+      "country": "Japan",
+      "code": "JP",
+      "count": 16
+    },
+    {
+      "country": "Poland",
+      "code": "PL",
+      "count": 7
+    },
+    {
+      "country": "Singapore",
+      "code": "SG",
+      "count": 7
+    },
+    {
+      "country": "Finland",
+      "code": "FI",
+      "count": 6
+    },
+    {
+      "country": "United Kingdom",
+      "code": "GB",
+      "count": 5
+    },
+    {
+      "country": "Australia",
+      "code": "AU",
+      "count": 3
+    },
+    {
+      "country": "India",
+      "code": "IN",
+      "count": 3
+    },
+    {
+      "country": "South Korea",
+      "code": "KR",
+      "count": 3
+    },
+    {
+      "country": "Italy",
+      "code": "IT",
+      "count": 2
+    },
+    {
+      "country": "Czechia",
+      "code": "CZ",
+      "count": 1
+    },
+    {
+      "country": "Latvia",
+      "code": "LV",
+      "count": 1
+    },
+    {
+      "country": "Malaysia",
+      "code": "MY",
+      "count": 1
+    },
+    {
+      "country": "South Africa",
+      "code": "ZA",
+      "count": 1
+    },
+    {
+      "country": "Spain",
+      "code": "ES",
+      "count": 1
+    }
+  ]
+}
