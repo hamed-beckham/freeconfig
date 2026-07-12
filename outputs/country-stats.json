@@ -33,18 +33,18 @@
       "count": 13
     },
     {
-      "country": "South Korea",
-      "code": "KR",
-      "count": 11
-    },
-    {
       "country": "Finland",
       "code": "FI",
-      "count": 7
+      "count": 10
     },
     {
       "country": "Poland",
       "code": "PL",
+      "count": 7
+    },
+    {
+      "country": "South Korea",
+      "code": "KR",
       "count": 7
     },
     {
@@ -63,13 +63,13 @@
       "count": 3
     },
     {
-      "country": "Spain",
-      "code": "ES",
-      "count": 3
-    },
-    {
       "country": "Italy",
       "code": "IT",
+      "count": 2
+    },
+    {
+      "country": "Türkiye",
+      "code": "TR",
       "count": 2
     },
     {
@@ -98,8 +98,18 @@
       "count": 1
     },
     {
-      "country": "Thailand",
-      "code": "TH",
+      "country": "Spain",
+      "code": "ES",
+      "count": 1
+    },
+    {
+      "country": "Sweden",
+      "code": "SE",
+      "count": 1
+    },
+    {
+      "country": "Taiwan",
+      "code": "TW",
       "count": 1
     }
   ]
