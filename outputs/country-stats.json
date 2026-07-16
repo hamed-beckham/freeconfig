@@ -1,5 +1,5 @@
 {
-  "total": 182,
+  "total": 177,
   "countryLimit": 20,
   "countries": [
     {
@@ -38,19 +38,19 @@
       "count": 20
     },
     {
-      "country": "Finland",
-      "code": "FI",
-      "count": 9
-    },
-    {
       "country": "Poland",
       "code": "PL",
-      "count": 9
+      "count": 8
     },
     {
       "country": "United Kingdom",
       "code": "GB",
       "count": 8
+    },
+    {
+      "country": "Finland",
+      "code": "FI",
+      "count": 5
     },
     {
       "country": "Ireland",
@@ -88,8 +88,8 @@
       "count": 1
     },
     {
-      "country": "Switzerland",
-      "code": "CH",
+      "country": "Spain",
+      "code": "ES",
       "count": 1
     },
     {
