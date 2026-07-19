@@ -1,5 +1,5 @@
 {
-  "total": 207,
+  "total": 152,
   "countryLimit": 20,
   "countries": [
     {
@@ -13,16 +13,6 @@
       "count": 20
     },
     {
-      "country": "Singapore",
-      "code": "SG",
-      "count": 20
-    },
-    {
-      "country": "South Korea",
-      "code": "KR",
-      "count": 20
-    },
-    {
       "country": "The Netherlands",
       "code": "NL",
       "count": 20
@@ -31,16 +21,6 @@
       "country": "United States",
       "code": "US",
       "count": 20
-    },
-    {
-      "country": "Ukraine",
-      "code": "UA",
-      "count": 18
-    },
-    {
-      "country": "Japan",
-      "code": "JP",
-      "count": 14
     },
     {
       "country": "Poland",
@@ -53,14 +33,19 @@
       "count": 10
     },
     {
+      "country": "Singapore",
+      "code": "SG",
+      "count": 8
+    },
+    {
+      "country": "South Korea",
+      "code": "KR",
+      "count": 8
+    },
+    {
       "country": "Finland",
       "code": "FI",
       "count": 7
-    },
-    {
-      "country": "United Kingdom",
-      "code": "GB",
-      "count": 4
     },
     {
       "country": "Australia",
@@ -73,18 +58,28 @@
       "count": 3
     },
     {
+      "country": "Ukraine",
+      "code": "UA",
+      "count": 3
+    },
+    {
+      "country": "United Kingdom",
+      "code": "GB",
+      "count": 3
+    },
+    {
       "country": "Hong Kong",
       "code": "HK",
       "count": 2
     },
     {
-      "country": "Malaysia",
-      "code": "MY",
+      "country": "Japan",
+      "code": "JP",
       "count": 2
     },
     {
-      "country": "Switzerland",
-      "code": "CH",
+      "country": "Taiwan",
+      "code": "TW",
       "count": 2
     },
     {
@@ -95,11 +90,6 @@
     {
       "country": "Canada",
       "code": "CA",
-      "count": 1
-    },
-    {
-      "country": "Indonesia",
-      "code": "ID",
       "count": 1
     },
     {
@@ -133,8 +123,8 @@
       "count": 1
     },
     {
-      "country": "Taiwan",
-      "code": "TW",
+      "country": "Switzerland",
+      "code": "CH",
       "count": 1
     }
   ]
