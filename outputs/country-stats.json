@@ -1,5 +1,5 @@
 {
-  "total": 229,
+  "total": 216,
   "countryLimit": 20,
   "countries": [
     {
@@ -33,29 +33,29 @@
       "count": 20
     },
     {
-      "country": "United Kingdom",
-      "code": "GB",
-      "count": 20
-    },
-    {
       "country": "United States",
       "code": "US",
       "count": 20
     },
     {
+      "country": "United Kingdom",
+      "code": "GB",
+      "count": 18
+    },
+    {
       "country": "Hong Kong",
       "code": "HK",
-      "count": 19
+      "count": 14
     },
     {
       "country": "Japan",
       "code": "JP",
-      "count": 19
+      "count": 14
     },
     {
-      "country": "Australia",
-      "code": "AU",
-      "count": 8
+      "country": "Finland",
+      "code": "FI",
+      "count": 5
     },
     {
       "country": "India",
@@ -68,8 +68,18 @@
       "count": 3
     },
     {
-      "country": "Indonesia",
-      "code": "ID",
+      "country": "Australia",
+      "code": "AU",
+      "count": 2
+    },
+    {
+      "country": "Italy",
+      "code": "IT",
+      "count": 2
+    },
+    {
+      "country": "Norway",
+      "code": "NO",
       "count": 2
     },
     {
@@ -78,13 +88,18 @@
       "count": 2
     },
     {
-      "country": "Armenia",
-      "code": "AM",
-      "count": 1
+      "country": "Switzerland",
+      "code": "CH",
+      "count": 2
     },
     {
       "country": "Austria",
       "code": "AT",
+      "count": 1
+    },
+    {
+      "country": "Belgium",
+      "code": "BE",
       "count": 1
     },
     {
@@ -93,28 +108,13 @@
       "count": 1
     },
     {
-      "country": "Finland",
-      "code": "FI",
+      "country": "Kazakhstan",
+      "code": "KZ",
       "count": 1
     },
     {
-      "country": "Italy",
-      "code": "IT",
-      "count": 1
-    },
-    {
-      "country": "Latvia",
-      "code": "LV",
-      "count": 1
-    },
-    {
-      "country": "Norway",
-      "code": "NO",
-      "count": 1
-    },
-    {
-      "country": "Russia",
-      "code": "RU",
+      "country": "Malaysia",
+      "code": "MY",
       "count": 1
     },
     {
@@ -123,18 +123,13 @@
       "count": 1
     },
     {
-      "country": "Sweden",
-      "code": "SE",
+      "country": "Thailand",
+      "code": "TH",
       "count": 1
     },
     {
-      "country": "Switzerland",
-      "code": "CH",
-      "count": 1
-    },
-    {
-      "country": "Türkiye",
-      "code": "TR",
+      "country": "Ukraine",
+      "code": "UA",
       "count": 1
     }
   ]
