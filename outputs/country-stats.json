@@ -1,20 +1,10 @@
 {
-  "total": 184,
+  "total": 157,
   "countryLimit": 20,
   "countries": [
     {
-      "country": "France",
-      "code": "FR",
-      "count": 20
-    },
-    {
       "country": "Germany",
       "code": "DE",
-      "count": 20
-    },
-    {
-      "country": "Singapore",
-      "code": "SG",
       "count": 20
     },
     {
@@ -28,19 +18,19 @@
       "count": 20
     },
     {
+      "country": "Singapore",
+      "code": "SG",
+      "count": 19
+    },
+    {
       "country": "Taiwan",
       "code": "TW",
-      "count": 13
+      "count": 19
     },
     {
-      "country": "United Kingdom",
-      "code": "GB",
-      "count": 12
-    },
-    {
-      "country": "Hong Kong",
-      "code": "HK",
-      "count": 11
+      "country": "France",
+      "code": "FR",
+      "count": 14
     },
     {
       "country": "Switzerland",
@@ -48,53 +38,38 @@
       "count": 11
     },
     {
-      "country": "South Korea",
-      "code": "KR",
+      "country": "United Kingdom",
+      "code": "GB",
+      "count": 10
+    },
+    {
+      "country": "Hong Kong",
+      "code": "HK",
       "count": 8
     },
     {
-      "country": "Japan",
-      "code": "JP",
-      "count": 7
-    },
-    {
-      "country": "Canada",
-      "code": "CA",
+      "country": "South Korea",
+      "code": "KR",
       "count": 4
-    },
-    {
-      "country": "Finland",
-      "code": "FI",
-      "count": 3
-    },
-    {
-      "country": "Australia",
-      "code": "AU",
-      "count": 2
-    },
-    {
-      "country": "Hungary",
-      "code": "HU",
-      "count": 2
     },
     {
       "country": "Russia",
       "code": "RU",
+      "count": 3
+    },
+    {
+      "country": "Finland",
+      "code": "FI",
       "count": 2
     },
     {
-      "country": "Thailand",
-      "code": "TH",
-      "count": 2
-    },
-    {
-      "country": "Austria",
-      "code": "AT",
+      "country": "Australia",
+      "code": "AU",
       "count": 1
     },
     {
-      "country": "Colombia",
-      "code": "CO",
+      "country": "Canada",
+      "code": "CA",
       "count": 1
     },
     {
@@ -108,13 +83,13 @@
       "count": 1
     },
     {
-      "country": "South Africa",
-      "code": "ZA",
+      "country": "Japan",
+      "code": "JP",
       "count": 1
     },
     {
-      "country": "Türkiye",
-      "code": "TR",
+      "country": "South Africa",
+      "code": "ZA",
       "count": 1
     },
     {
