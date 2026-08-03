@@ -1,38 +1,8 @@
 [
   {
     "remark": "server1",
-    "link": "vless://6a248b82-ad33-4a8f-8ef7-cdd0ac26c261@31.56.178.59:443?security=reality&encryption=none&pbk=rg_sl-tQIau_CXdjpo-BvLmlZMmlbq2KMrH5K4kdyCY&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=us.boxypn.com#United%20States%20%F0%9F%87%BA%F0%9F%87%B8",
-    "ping": "125ms",
-    "ip": "31.56.178.59",
-    "country": "United States",
-    "countryCode": "US",
-    "city": "Kansas City",
-    "ISP": "CGI GLOBAL LIMITED"
-  },
-  {
-    "remark": "server2",
-    "link": "vmess://eyJ2IjoiMiIsImFkZCI6IjE2NS4xNDAuMjE2LjE0MiIsInBvcnQiOiI0NDMiLCJpZCI6ImI2NWEyZDY5LTU2MzQtNDJhMi1lNGJlLTU0ZThhNjE3NjkwMCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6IiIsInRscyI6IiIsInBzIjoiVW5pdGVkIFN0YXRlcyBcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjgiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ",
-    "ping": "154ms",
-    "ip": "2001:470:2be:1:20c:29ff:fe4e:88c4",
-    "country": "United States",
-    "countryCode": "US",
-    "city": "Denver",
-    "ISP": "Hurricane Electric LLC"
-  },
-  {
-    "remark": "server3",
-    "link": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.195:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#United%20States%20%F0%9F%87%BA%F0%9F%87%B8",
-    "ping": "200ms",
-    "ip": "2604:2dc0:200:26c3::",
-    "country": "United States",
-    "countryCode": "US",
-    "city": "Reston",
-    "ISP": "OVH SAS"
-  },
-  {
-    "remark": "server4",
     "link": "vless://7c74b0e4-f132-5583-4692-622a7d6b71a4@88.218.44.4:993?encryption=none&flow=xtls-rprx-vision&fp=&pbk=EG3y7UktGRlzSZZ2oXT_YaO2gVP4ca3Xe6AQ0u9A5DQ&security=reality&sni=download.nvidia.com&type=tcp#United%20States%20%F0%9F%87%BA%F0%9F%87%B8",
-    "ping": "202ms",
+    "ping": "103ms",
     "ip": "45.148.233.2",
     "country": "The Netherlands",
     "countryCode": "NL",
@@ -40,29 +10,19 @@
     "ISP": "PureVoltage Hosting Inc."
   },
   {
-    "remark": "server5",
-    "link": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.216:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#United%20States%20%F0%9F%87%BA%F0%9F%87%B8",
-    "ping": "215ms",
-    "ip": "2604:2dc0:200:26d8::",
+    "remark": "server2",
+    "link": "vmess://eyJhZGQiOiIyMTYuMTA2LjE4NS4xNDEiLCJhaWQiOiIwIiwiYWxwbiI6bnVsbCwiZnAiOm51bGwsImhvc3QiOiIiLCJpZCI6IjA0NjIxYmFlLWFiMzYtMTFlYy1iOTA5LTAyNDJhYzEyMDAwMiIsIm5hbWUiOiJcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjggVVMgNjciLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOjIyMzI0LCJzY3kiOm51bGwsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6bnVsbCwidGxzIjoiIiwidHlwZSI6bnVsbCwidiI6bnVsbCwicHMiOiJVbml0ZWQgU3RhdGVzIFx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCJ9",
+    "ping": "272ms",
+    "ip": "216.106.185.141",
     "country": "United States",
     "countryCode": "US",
-    "city": "Reston",
-    "ISP": "OVH SAS"
+    "city": "Santa Clara",
+    "ISP": "GTHost"
   },
   {
-    "remark": "server6",
-    "link": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.206:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#United%20States%20%F0%9F%87%BA%F0%9F%87%B8",
-    "ping": "222ms",
-    "ip": "2604:2dc0:200:26ce::",
-    "country": "United States",
-    "countryCode": "US",
-    "city": "Reston",
-    "ISP": "OVH SAS"
-  },
-  {
-    "remark": "server7",
+    "remark": "server3",
     "link": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.214:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#United%20States%20%F0%9F%87%BA%F0%9F%87%B8",
-    "ping": "222ms",
+    "ping": "291ms",
     "ip": "2604:2dc0:200:26d6::",
     "country": "United States",
     "countryCode": "US",
@@ -70,10 +30,50 @@
     "ISP": "OVH SAS"
   },
   {
-    "remark": "server8",
+    "remark": "server4",
+    "link": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.198:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#United%20States%20%F0%9F%87%BA%F0%9F%87%B8",
+    "ping": "293ms",
+    "ip": "2604:2dc0:200:26c6::",
+    "country": "United States",
+    "countryCode": "US",
+    "city": "Reston",
+    "ISP": "OVH SAS"
+  },
+  {
+    "remark": "server5",
     "link": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.197:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#United%20States%20%F0%9F%87%BA%F0%9F%87%B8",
-    "ping": "230ms",
+    "ping": "294ms",
     "ip": "2604:2dc0:200:26c5::",
+    "country": "United States",
+    "countryCode": "US",
+    "city": "Reston",
+    "ISP": "OVH SAS"
+  },
+  {
+    "remark": "server6",
+    "link": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.216:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#United%20States%20%F0%9F%87%BA%F0%9F%87%B8",
+    "ping": "294ms",
+    "ip": "2604:2dc0:200:26d8::",
+    "country": "United States",
+    "countryCode": "US",
+    "city": "Reston",
+    "ISP": "OVH SAS"
+  },
+  {
+    "remark": "server7",
+    "link": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.195:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#United%20States%20%F0%9F%87%BA%F0%9F%87%B8",
+    "ping": "295ms",
+    "ip": "2604:2dc0:200:26c3::",
+    "country": "United States",
+    "countryCode": "US",
+    "city": "Reston",
+    "ISP": "OVH SAS"
+  },
+  {
+    "remark": "server8",
+    "link": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.206:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#United%20States%20%F0%9F%87%BA%F0%9F%87%B8",
+    "ping": "307ms",
+    "ip": "2604:2dc0:200:26ce::",
     "country": "United States",
     "countryCode": "US",
     "city": "Reston",
@@ -82,7 +82,7 @@
   {
     "remark": "server9",
     "link": "vless://98262dbd-3606-437b-b12e-3f38ca62522f@1.rmgyvpn.rest:443?encryption=none&fp=chrome&host=1.rmgyvpn.rest&path=%2Fws-cdn&security=tls&sni=1.rmgyvpn.rest&type=ws#Cloudflare%20%F0%9F%8C%90",
-    "ping": "230ms",
+    "ping": "313ms",
     "ip": "104.168.101.221",
     "country": "United States",
     "countryCode": "US",
@@ -91,18 +91,8 @@
   },
   {
     "remark": "server10",
-    "link": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.198:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#United%20States%20%F0%9F%87%BA%F0%9F%87%B8",
-    "ping": "230ms",
-    "ip": "2604:2dc0:200:26c6::",
-    "country": "United States",
-    "countryCode": "US",
-    "city": "Reston",
-    "ISP": "OVH SAS"
-  },
-  {
-    "remark": "server11",
     "link": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.219:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#United%20States%20%F0%9F%87%BA%F0%9F%87%B8",
-    "ping": "232ms",
+    "ping": "317ms",
     "ip": "2604:2dc0:200:26db::",
     "country": "United States",
     "countryCode": "US",
@@ -110,39 +100,9 @@
     "ISP": "OVH SAS"
   },
   {
-    "remark": "server12",
-    "link": "vless://70c16ec7-13f7-473b-b97d-06399f1481e3@www.baipiao.eu.org:8880?encryption=none&host=mute-surf-0003.209.workers.dev&path=%2Fpyip%3DProxyIP.US.CMLiussss.net&security=none&type=ws#Cloudflare%20%F0%9F%8C%90",
-    "ping": "269ms",
-    "ip": "172.190.157.189",
-    "country": "United States",
-    "countryCode": "US",
-    "city": "Boydton",
-    "ISP": "Microsoft"
-  },
-  {
-    "remark": "server13",
-    "link": "vmess://eyJhZGQiOiIyMTYuMTA2LjE4NS4xNDEiLCJhaWQiOiIwIiwiYWxwbiI6bnVsbCwiZnAiOm51bGwsImhvc3QiOiIiLCJpZCI6IjA0NjIxYmFlLWFiMzYtMTFlYy1iOTA5LTAyNDJhYzEyMDAwMiIsIm5hbWUiOiJcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjggVVMgNjciLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOjIyMzI0LCJzY3kiOm51bGwsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6bnVsbCwidGxzIjoiIiwidHlwZSI6bnVsbCwidiI6bnVsbCwicHMiOiJVbml0ZWQgU3RhdGVzIFx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCJ9",
-    "ping": "395ms",
-    "ip": "216.106.185.141",
-    "country": "United States",
-    "countryCode": "US",
-    "city": "Santa Clara",
-    "ISP": "GTHost"
-  },
-  {
-    "remark": "server14",
-    "link": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.97:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#The%20Netherlands%20%F0%9F%87%B3%F0%9F%87%B1",
-    "ping": "463ms",
-    "ip": "51.158.206.97",
-    "country": "The Netherlands",
-    "countryCode": "NL",
-    "city": "Haarlem",
-    "ISP": "Scaleway SAS"
-  },
-  {
-    "remark": "server15",
+    "remark": "server11",
     "link": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.25:23576?encryption=none&flow=xtls-rprx-vision&fp=&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&security=reality&sid=01&sni=fuck.rkn&type=tcp#The%20Netherlands%20%F0%9F%87%B3%F0%9F%87%B1",
-    "ping": "470ms",
+    "ping": "368ms",
     "ip": "51.158.206.25",
     "country": "The Netherlands",
     "countryCode": "NL",
@@ -150,9 +110,9 @@
     "ISP": "Scaleway SAS"
   },
   {
-    "remark": "server16",
+    "remark": "server12",
     "link": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.96:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#The%20Netherlands%20%F0%9F%87%B3%F0%9F%87%B1",
-    "ping": "473ms",
+    "ping": "369ms",
     "ip": "51.158.206.96",
     "country": "The Netherlands",
     "countryCode": "NL",
@@ -160,9 +120,9 @@
     "ISP": "Scaleway SAS"
   },
   {
-    "remark": "server17",
+    "remark": "server13",
     "link": "vless://5c192fd7-ef98-4112-a20c-129108fcd7e9@217.60.193.1:443?alpn=h2&encryption=none&fp=firefox&security=tls&sni=ddc-akn.astralweb.tech&type=tcp#Germany%20%F0%9F%87%A9%F0%9F%87%AA",
-    "ping": "479ms",
+    "ping": "373ms",
     "ip": "203.23.179.151",
     "country": "Germany",
     "countryCode": "DE",
@@ -170,189 +130,19 @@
     "ISP": "GSL Networks Pty LTD"
   },
   {
-    "remark": "server18",
-    "link": "vless://9e20b04d-5a81-4e16-b421-01e502f0aac6@57.129.132.223:80?encryption=none&host=google.com&path=%2Fvless%2F&security=none&type=ws#United%20Kingdom%20%F0%9F%87%AC%F0%9F%87%A7",
-    "ping": "482ms",
-    "ip": "57.129.132.223",
-    "country": "United Kingdom",
-    "countryCode": "GB",
-    "city": "Bexley",
-    "ISP": "OVH SAS"
-  },
-  {
-    "remark": "server19",
-    "link": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.26:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#The%20Netherlands%20%F0%9F%87%B3%F0%9F%87%B1",
-    "ping": "482ms",
-    "ip": "51.158.206.26",
-    "country": "The Netherlands",
-    "countryCode": "NL",
-    "city": "Haarlem",
-    "ISP": "Scaleway SAS"
-  },
-  {
-    "remark": "server20",
-    "link": "vless://e73df646-1f62-41bf-8c50-653497d603d0@163.172.213.174:80?path=%2Fvless%2F&security=&encryption=none&host=SC-TheNetherlands2.09vpn.com&type=ws#Netherlands%20%F0%9F%87%B3%F0%9F%87%B1",
-    "ping": "487ms",
-    "ip": "163.172.213.174",
-    "country": "The Netherlands",
-    "countryCode": "NL",
-    "city": "Haarlem",
-    "ISP": "SCALEWAY"
-  },
-  {
-    "remark": "server21",
-    "link": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.12:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#The%20Netherlands%20%F0%9F%87%B3%F0%9F%87%B1",
-    "ping": "489ms",
-    "ip": "51.158.206.12",
-    "country": "The Netherlands",
-    "countryCode": "NL",
-    "city": "Haarlem",
-    "ISP": "Scaleway SAS"
-  },
-  {
-    "remark": "server22",
-    "link": "vless://da97d2d7-d255-4efd-8398-7101d698768e@195.133.18.161:30153?security=&encryption=none&headerType=none&type=tcp#Serbia%20%F0%9F%87%B7%F0%9F%87%B8",
-    "ping": "489ms",
-    "ip": "195.133.18.161",
-    "country": "Germany",
-    "countryCode": "DE",
-    "city": "Frankfurt Am Main",
-    "ISP": "xorek.cloud International LTD"
-  },
-  {
-    "remark": "server23",
-    "link": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.93:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#The%20Netherlands%20%F0%9F%87%B3%F0%9F%87%B1",
-    "ping": "497ms",
-    "ip": "51.158.206.93",
-    "country": "The Netherlands",
-    "countryCode": "NL",
-    "city": "Haarlem",
-    "ISP": "Scaleway SAS"
-  },
-  {
-    "remark": "server24",
-    "link": "vless://48267e65-8bf0-4046-923f-4ee967009344@159.195.139.217:8443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=sellflow.org&type=tcp#Germany%20%F0%9F%87%A9%F0%9F%87%AA",
-    "ping": "498ms",
-    "ip": "159.195.139.217",
-    "country": "Germany",
-    "countryCode": "DE",
-    "city": "Nuremberg",
-    "ISP": "netcup GmbH"
-  },
-  {
-    "remark": "server25",
-    "link": "trojan://humanity@104.18.152.219:443?host=www.ignitelimit.com&path=%2Fassignment&sni=www.ignitelimit.com&type=ws#Cloudflare%20%F0%9F%8C%90",
-    "ping": "511ms",
-    "ip": "51.159.158.233",
+    "remark": "server14",
+    "link": "trojan://humanity@104.17.121.9:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=1&host=www.calmlunch.com&fp=chrome&type=ws&allowInsecure=1&sni=www.calmlunch.com#Cloudflare%20%F0%9F%8C%90",
+    "ping": "374ms",
+    "ip": "51.159.148.230",
     "country": "France",
     "countryCode": "FR",
     "city": "Paris",
     "ISP": "SCALEWAY"
   },
   {
-    "remark": "server26",
-    "link": "vless://9e1b3859-634f-4dc9-8f59-848a1216f47c@94.143.231.53:39200?encryption=none&headerType=http&security=none&type=tcp#Germany%20%F0%9F%87%A9%F0%9F%87%AA",
-    "ping": "511ms",
-    "ip": "94.143.231.53",
-    "country": "Germany",
-    "countryCode": "DE",
-    "city": "Frankfurt am Main",
-    "ISP": "dataforest GmbH"
-  },
-  {
-    "remark": "server27",
-    "link": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.87:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#The%20Netherlands%20%F0%9F%87%B3%F0%9F%87%B1",
-    "ping": "511ms",
-    "ip": "51.158.206.87",
-    "country": "The Netherlands",
-    "countryCode": "NL",
-    "city": "Haarlem",
-    "ISP": "Scaleway SAS"
-  },
-  {
-    "remark": "server28",
-    "link": "vless://a481265c-a4d8-4d1a-9ae1-48eb3f7fccb4@62.238.51.180:1234?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#Finland%20%F0%9F%87%AB%F0%9F%87%AE",
-    "ping": "518ms",
-    "ip": "2a01:4f9:c013:67c4::1",
-    "country": "Finland",
-    "countryCode": "FI",
-    "city": "Helsinki",
-    "ISP": "Hetzner Online GmbH"
-  },
-  {
-    "remark": "server29",
-    "link": "trojan://humanity@172.67.149.60:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#Cloudflare%20%F0%9F%8C%90",
-    "ping": "524ms",
-    "ip": "51.159.158.233",
-    "country": "France",
-    "countryCode": "FR",
-    "city": "Paris",
-    "ISP": "SCALEWAY"
-  },
-  {
-    "remark": "server30",
-    "link": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.80:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#The%20Netherlands%20%F0%9F%87%B3%F0%9F%87%B1",
-    "ping": "524ms",
-    "ip": "51.158.206.80",
-    "country": "The Netherlands",
-    "countryCode": "NL",
-    "city": "Haarlem",
-    "ISP": "Scaleway SAS"
-  },
-  {
-    "remark": "server31",
-    "link": "trojan://humanity@104.18.152.97:443?host=www.ignitelimit.com&path=%2Fassignment&sni=www.ignitelimit.com&type=ws#Cloudflare%20%F0%9F%8C%90",
-    "ping": "525ms",
-    "ip": "51.159.158.233",
-    "country": "France",
-    "countryCode": "FR",
-    "city": "Paris",
-    "ISP": "SCALEWAY"
-  },
-  {
-    "remark": "server32",
-    "link": "vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@104.16.72.41:80?path=%2Fhttp&security=none&encryption=none&host=de.vpnbase.net&type=ws#Germany%20%F0%9F%87%A9%F0%9F%87%AA",
-    "ping": "527ms",
-    "ip": "162.19.228.119",
-    "country": "Germany",
-    "countryCode": "DE",
-    "city": "Limburg an der Lahn",
-    "ISP": "OVH SAS"
-  },
-  {
-    "remark": "server33",
-    "link": "trojan://humanity@188.114.97.7:443?path=%2Fassignment&security=tls&insecure=0&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#Cloudflare%20%F0%9F%8C%90",
-    "ping": "529ms",
-    "ip": "51.159.158.233",
-    "country": "France",
-    "countryCode": "FR",
-    "city": "Paris",
-    "ISP": "SCALEWAY"
-  },
-  {
-    "remark": "server34",
-    "link": "vless://431fe973-a43a-4fac-bf83-2a772e0d0625@60.249.101.14:10000?encryption=none&security=none&type=tcp#Taiwan%20%F0%9F%87%B9%F0%9F%87%BC",
-    "ping": "529ms",
-    "ip": "2001:b030:a811:6c00:61:221:84:1",
-    "country": "Taiwan",
-    "countryCode": "TW",
-    "city": "New Taipei City",
-    "ISP": "Chunghwa Telecom Co., Ltd."
-  },
-  {
-    "remark": "server35",
-    "link": "vless://5de3f60c-7cc2-4f66-9177-706a2693dc19@62.238.55.96:1234?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#Finland%20%F0%9F%87%AB%F0%9F%87%AE",
-    "ping": "530ms",
-    "ip": "2a01:4f9:c013:b0a0::1",
-    "country": "Finland",
-    "countryCode": "FI",
-    "city": "Helsinki",
-    "ISP": "Hetzner Online GmbH"
-  },
-  {
-    "remark": "server36",
+    "remark": "server15",
     "link": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.8:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#The%20Netherlands%20%F0%9F%87%B3%F0%9F%87%B1",
-    "ping": "533ms",
+    "ping": "375ms",
     "ip": "51.158.206.8",
     "country": "The Netherlands",
     "countryCode": "NL",
@@ -360,79 +150,49 @@
     "ISP": "Scaleway SAS"
   },
   {
-    "remark": "server37",
-    "link": "trojan://humanity@104.16.174.121:443?host=www.ignitelimit.com&path=%2Fassignment&sni=www.ignitelimit.com&type=ws#Cloudflare%20%F0%9F%8C%90",
-    "ping": "536ms",
-    "ip": "51.159.158.233",
+    "remark": "server16",
+    "link": "trojan://humanity@212.183.88.136:443?host=www.calmlunch.com&path=%2Fassignment&sni=www.calmlunch.com&type=ws#Austria%20%F0%9F%87%A6%F0%9F%87%B9",
+    "ping": "377ms",
+    "ip": "51.159.148.230",
     "country": "France",
     "countryCode": "FR",
     "city": "Paris",
     "ISP": "SCALEWAY"
   },
   {
-    "remark": "server38",
-    "link": "vless://431fe973-a43a-4fac-bf83-2a772e0d0625@60.249.101.16:10000?encryption=none&security=none&type=tcp#Taiwan%20%F0%9F%87%B9%F0%9F%87%BC",
-    "ping": "536ms",
-    "ip": "2001:b030:a811:6c00:61:221:84:1",
-    "country": "Taiwan",
-    "countryCode": "TW",
-    "city": "New Taipei City",
-    "ISP": "Chunghwa Telecom Co., Ltd."
+    "remark": "server17",
+    "link": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.26:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#The%20Netherlands%20%F0%9F%87%B3%F0%9F%87%B1",
+    "ping": "379ms",
+    "ip": "51.158.206.26",
+    "country": "The Netherlands",
+    "countryCode": "NL",
+    "city": "Haarlem",
+    "ISP": "Scaleway SAS"
   },
   {
-    "remark": "server39",
-    "link": "vless://8b0c48db-c228-47d9-b634-6ea6edf81e22@62.238.63.51:1234?encryption=none&headerType=http&host=play.google.com&path=%2F&security=none&type=tcp#Finland%20%F0%9F%87%AB%F0%9F%87%AE",
-    "ping": "537ms",
-    "ip": "2a01:4f9:c013:1f57::1",
-    "country": "Finland",
-    "countryCode": "FI",
-    "city": "Helsinki",
-    "ISP": "Hetzner Online GmbH"
+    "remark": "server18",
+    "link": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.80:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#The%20Netherlands%20%F0%9F%87%B3%F0%9F%87%B1",
+    "ping": "381ms",
+    "ip": "51.158.206.80",
+    "country": "The Netherlands",
+    "countryCode": "NL",
+    "city": "Haarlem",
+    "ISP": "Scaleway SAS"
   },
   {
-    "remark": "server40",
-    "link": "trojan://humanity@104.18.152.208:443?host=www.ignitelimit.com&path=%2Fassignment&sni=www.ignitelimit.com&type=ws#Cloudflare%20%F0%9F%8C%90",
-    "ping": "542ms",
-    "ip": "51.159.158.233",
-    "country": "France",
-    "countryCode": "FR",
-    "city": "Paris",
-    "ISP": "SCALEWAY"
+    "remark": "server19",
+    "link": "vless://9e20b04d-5a81-4e16-b421-01e502f0aac6@57.129.132.223:80?encryption=none&host=google.com&path=%2Fvless%2F&security=none&type=ws#United%20Kingdom%20%F0%9F%87%AC%F0%9F%87%A7",
+    "ping": "383ms",
+    "ip": "57.129.132.223",
+    "country": "United Kingdom",
+    "countryCode": "GB",
+    "city": "Bexley",
+    "ISP": "OVH SAS"
   },
   {
-    "remark": "server41",
-    "link": "vmess://eyJhZGQiOiI0NS43Ni4yMDIuNDUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiY2hyb21lIiwiaG9zdCI6IiIsImlkIjoiMDcxYThhNzEtYzY1Ni00ZmI2LWE5MDgtNGU0MmViNzIyNDNkIiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpa3N1emNwIiwicGNzIjoiIiwicG9ydCI6IjQwMTAiLCJwcyI6IkphcGFuIFx1ZDgzY1x1ZGRlZlx1ZDgzY1x1ZGRmNSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIiLCJ2Y24iOiIifQ",
-    "ping": "543ms",
-    "ip": "45.76.202.45",
-    "country": "Japan",
-    "countryCode": "JP",
-    "city": "Minamishinagawa",
-    "ISP": "The Constant Company"
-  },
-  {
-    "remark": "server42",
-    "link": "vless://2cca8201-c93e-40eb-bd8a-fea4170c169e@185.136.12.190:443?alpn=h2&encryption=none&fp=firefox&host=deu683.lackerdeu.org&mode=auto&path=%2Fapi%2Fv1%2F&security=tls&sni=deu683.lackerdeu.org&type=xhttp#Germany%20%F0%9F%87%A9%F0%9F%87%AA",
-    "ping": "543ms",
-    "ip": "185.136.12.190",
-    "country": "Germany",
-    "countryCode": "DE",
-    "city": "Frankfurt am Main",
-    "ISP": "Albanian Hosting SH.P.K."
-  },
-  {
-    "remark": "server43",
-    "link": "vless://2cca8201-c93e-40eb-bd8a-fea4170c169e@185.136.12.179:443?alpn=h2&encryption=none&extra=%7B%22xmux%22%3A%7B%22maxConcurrency%22%3A%2216-32%22%2C%22cMaxLifetimeMs%22%3A%22180000-300000%22%2C%22cMaxReuseTimes%22%3A%220%22%7D%7D&fp=firefox&mode=auto&path=%2Fapi%2Fv1%2F&security=tls&sni=deu683.lackerdeu.org&type=xhttp#Germany%20%F0%9F%87%A9%F0%9F%87%AA",
-    "ping": "546ms",
-    "ip": "185.136.12.179",
-    "country": "Germany",
-    "countryCode": "DE",
-    "city": "Frankfurt am Main",
-    "ISP": "Albanian Hosting SH.P.K."
-  },
-  {
-    "remark": "server44",
+    "remark": "server20",
     "link": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.98:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#The%20Netherlands%20%F0%9F%87%B3%F0%9F%87%B1",
-    "ping": "548ms",
+    "ping": "385ms",
     "ip": "51.158.206.98",
     "country": "The Netherlands",
     "countryCode": "NL",
@@ -440,9 +200,239 @@
     "ISP": "Scaleway SAS"
   },
   {
-    "remark": "server45",
+    "remark": "server21",
+    "link": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.97:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#The%20Netherlands%20%F0%9F%87%B3%F0%9F%87%B1",
+    "ping": "388ms",
+    "ip": "51.158.206.97",
+    "country": "The Netherlands",
+    "countryCode": "NL",
+    "city": "Haarlem",
+    "ISP": "Scaleway SAS"
+  },
+  {
+    "remark": "server22",
+    "link": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.87:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#The%20Netherlands%20%F0%9F%87%B3%F0%9F%87%B1",
+    "ping": "388ms",
+    "ip": "51.158.206.87",
+    "country": "The Netherlands",
+    "countryCode": "NL",
+    "city": "Haarlem",
+    "ISP": "Scaleway SAS"
+  },
+  {
+    "remark": "server23",
+    "link": "vless://304a1e62-eb26-4b44-994e-b96a70fff9b4@ad-013.milo1fmyz.info:8443?encryption=none&fp=chrome&host=ad-013.milo1fmyz.info&path=%2F&security=tls&sni=ad-013.milo1fmyz.info&type=ws#Cloudflare%20%F0%9F%8C%90",
+    "ping": "389ms",
+    "ip": "2607:5300:205:300::1076",
+    "country": "Canada",
+    "countryCode": "CA",
+    "city": "Montreal",
+    "ISP": "OVH SAS"
+  },
+  {
+    "remark": "server24",
+    "link": "trojan://humanity@185.18.250.252:443?allowInsecure=1&host=www.calmlunch.com&path=%2Fassignment&sni=www.calmlunch.com&type=ws#Spain%20%F0%9F%87%AA%F0%9F%87%B8",
+    "ping": "398ms",
+    "ip": "51.159.148.230",
+    "country": "France",
+    "countryCode": "FR",
+    "city": "Paris",
+    "ISP": "SCALEWAY"
+  },
+  {
+    "remark": "server25",
+    "link": "trojan://humanity@45.80.111.7:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#Germany%20%F0%9F%87%A9%F0%9F%87%AA",
+    "ping": "399ms",
+    "ip": "51.159.148.230",
+    "country": "France",
+    "countryCode": "FR",
+    "city": "Paris",
+    "ISP": "SCALEWAY"
+  },
+  {
+    "remark": "server26",
+    "link": "trojan://humanity@104.17.121.43:443?host=www.calmlunch.com&path=%2Fassignment&sni=www.calmlunch.com&type=ws#Cloudflare%20%F0%9F%8C%90",
+    "ping": "401ms",
+    "ip": "51.159.148.230",
+    "country": "France",
+    "countryCode": "FR",
+    "city": "Paris",
+    "ISP": "SCALEWAY"
+  },
+  {
+    "remark": "server27",
+    "link": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.103:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#The%20Netherlands%20%F0%9F%87%B3%F0%9F%87%B1",
+    "ping": "402ms",
+    "ip": "51.158.206.103",
+    "country": "The Netherlands",
+    "countryCode": "NL",
+    "city": "Haarlem",
+    "ISP": "Scaleway SAS"
+  },
+  {
+    "remark": "server28",
+    "link": "trojan://humanity@104.16.71.213:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#Cloudflare%20%F0%9F%8C%90",
+    "ping": "403ms",
+    "ip": "51.159.148.230",
+    "country": "France",
+    "countryCode": "FR",
+    "city": "Paris",
+    "ISP": "SCALEWAY"
+  },
+  {
+    "remark": "server29",
+    "link": "vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@172.67.202.17:2095?encryption=none&host=fuckfangbinxing.pusytroller.gq&path=%2F&security=none&type=ws#Cloudflare%20%F0%9F%8C%90",
+    "ping": "408ms",
+    "ip": "40.81.6.248",
+    "country": "United States",
+    "countryCode": "US",
+    "city": "San Francisco",
+    "ISP": "Microsoft Corporation"
+  },
+  {
+    "remark": "server30",
+    "link": "trojan://humanity@104.17.121.71:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#Cloudflare%20%F0%9F%8C%90",
+    "ping": "409ms",
+    "ip": "51.159.148.230",
+    "country": "France",
+    "countryCode": "FR",
+    "city": "Paris",
+    "ISP": "SCALEWAY"
+  },
+  {
+    "remark": "server31",
+    "link": "trojan://humanity@45.130.125.76:443?allowInsecure=1&alpn=http%2F1.1&host=www.calmlunch.com&path=%2Fassignment&sni=www.calmlunch.com&type=ws#Seychelles%20%F0%9F%87%B8%F0%9F%87%A8",
+    "ping": "410ms",
+    "ip": "51.159.148.230",
+    "country": "France",
+    "countryCode": "FR",
+    "city": "Paris",
+    "ISP": "SCALEWAY"
+  },
+  {
+    "remark": "server32",
+    "link": "vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.18.42.163:2095?encryption=none&host=download.pusytroller.gq&path=%2F&security=none&type=ws#Cloudflare%20%F0%9F%8C%90",
+    "ping": "412ms",
+    "ip": "40.81.6.248",
+    "country": "United States",
+    "countryCode": "US",
+    "city": "San Francisco",
+    "ISP": "Microsoft Corporation"
+  },
+  {
+    "remark": "server33",
+    "link": "trojan://humanity@45.130.125.126:443/?type=ws&host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com#Seychelles%20%F0%9F%87%B8%F0%9F%87%A8",
+    "ping": "414ms",
+    "ip": "51.159.148.230",
+    "country": "France",
+    "countryCode": "FR",
+    "city": "Paris",
+    "ISP": "SCALEWAY"
+  },
+  {
+    "remark": "server34",
+    "link": "trojan://humanity@45.130.125.160:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#Seychelles%20%F0%9F%87%B8%F0%9F%87%A8",
+    "ping": "415ms",
+    "ip": "51.159.148.230",
+    "country": "France",
+    "countryCode": "FR",
+    "city": "Paris",
+    "ISP": "SCALEWAY"
+  },
+  {
+    "remark": "server35",
+    "link": "trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#Cloudflare%20%F0%9F%8C%90",
+    "ping": "417ms",
+    "ip": "51.159.148.230",
+    "country": "France",
+    "countryCode": "FR",
+    "city": "Paris",
+    "ISP": "SCALEWAY"
+  },
+  {
+    "remark": "server36",
+    "link": "trojan://humanity@www.calmlunch.com:443/?type=ws&host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com#Cloudflare%20%F0%9F%8C%90",
+    "ping": "421ms",
+    "ip": "51.159.148.230",
+    "country": "France",
+    "countryCode": "FR",
+    "city": "Paris",
+    "ISP": "SCALEWAY"
+  },
+  {
+    "remark": "server37",
+    "link": "vless://2cca8201-c93e-40eb-bd8a-fea4170c169e@185.136.12.179:443?alpn=h2&encryption=none&extra=%7B%22xmux%22%3A%7B%22maxConcurrency%22%3A%2216-32%22%2C%22cMaxLifetimeMs%22%3A%22180000-300000%22%2C%22cMaxReuseTimes%22%3A%220%22%7D%7D&fp=firefox&mode=auto&path=%2Fapi%2Fv1%2F&security=tls&sni=deu683.lackerdeu.org&type=xhttp#Germany%20%F0%9F%87%A9%F0%9F%87%AA",
+    "ping": "421ms",
+    "ip": "185.136.12.179",
+    "country": "Germany",
+    "countryCode": "DE",
+    "city": "Frankfurt am Main",
+    "ISP": "Albanian Hosting SH.P.K."
+  },
+  {
+    "remark": "server38",
+    "link": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.93:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#The%20Netherlands%20%F0%9F%87%B3%F0%9F%87%B1",
+    "ping": "421ms",
+    "ip": "51.158.206.93",
+    "country": "The Netherlands",
+    "countryCode": "NL",
+    "city": "Haarlem",
+    "ISP": "Scaleway SAS"
+  },
+  {
+    "remark": "server39",
+    "link": "trojan://humanity@165.215.250.14:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&type=ws&security=tls&path=%2Fassignment&host=www.calmlunch.com&sni=www.calmlunch.com&fp=chrome&insecure=1&allowInsecure=1#United%20States%20%F0%9F%87%BA%F0%9F%87%B8",
+    "ping": "423ms",
+    "ip": "51.159.148.230",
+    "country": "France",
+    "countryCode": "FR",
+    "city": "Paris",
+    "ISP": "SCALEWAY"
+  },
+  {
+    "remark": "server40",
+    "link": "vless://da97d2d7-d255-4efd-8398-7101d698768e@195.133.18.161:30153?security=&encryption=none&headerType=none&type=tcp#Germany%20%F0%9F%87%A9%F0%9F%87%AA",
+    "ping": "424ms",
+    "ip": "195.133.18.161",
+    "country": "Germany",
+    "countryCode": "DE",
+    "city": "Frankfurt Am Main",
+    "ISP": "xorek.cloud International LTD"
+  },
+  {
+    "remark": "server41",
+    "link": "vless://2cca8201-c93e-40eb-bd8a-fea4170c169e@185.136.12.190:443?alpn=h2&encryption=none&fp=firefox&host=deu683.lackerdeu.org&mode=auto&path=%2Fapi%2Fv1%2F&security=tls&sni=deu683.lackerdeu.org&type=xhttp#Germany%20%F0%9F%87%A9%F0%9F%87%AA",
+    "ping": "424ms",
+    "ip": "185.136.12.190",
+    "country": "Germany",
+    "countryCode": "DE",
+    "city": "Frankfurt am Main",
+    "ISP": "Albanian Hosting SH.P.K."
+  },
+  {
+    "remark": "server42",
+    "link": "vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@172.64.146.153:2095?type=ws&host=fangbinxingnmsl.pusytroller.gq&path=/#Cloudflare%20%F0%9F%8C%90",
+    "ping": "437ms",
+    "ip": "40.81.6.248",
+    "country": "United States",
+    "countryCode": "US",
+    "city": "San Francisco",
+    "ISP": "Microsoft Corporation"
+  },
+  {
+    "remark": "server43",
+    "link": "vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@104.16.72.41:80?path=%2Fhttp&security=none&encryption=none&host=de.vpnbase.net&type=ws#Germany%20%F0%9F%87%A9%F0%9F%87%AA",
+    "ping": "439ms",
+    "ip": "162.19.228.119",
+    "country": "Germany",
+    "countryCode": "DE",
+    "city": "Limburg an der Lahn",
+    "ISP": "OVH SAS"
+  },
+  {
+    "remark": "server44",
     "link": "vless://6a248b82-ad33-4a8f-8ef7-cdd0ac26c261@13.143.143.212:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=IGG9oVIr32rd2ozIyH2LmpJGctaKr77IjRlbWolhBCY&security=reality&sni=poland.boxypn.com&type=tcp#Poland%20%F0%9F%87%B5%F0%9F%87%B1",
-    "ping": "553ms",
+    "ping": "479ms",
     "ip": "13.143.143.212",
     "country": "Poland",
     "countryCode": "PL",
@@ -450,19 +440,29 @@
     "ISP": "LLC \"HOSTOFF CSL\""
   },
   {
+    "remark": "server45",
+    "link": "vless://2a77a470-315c-493d-b690-59b814a804cb@178.83.226.55:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=sellflow.org&type=tcp#Switzerland%20%F0%9F%87%A8%F0%9F%87%AD",
+    "ping": "480ms",
+    "ip": "178.83.226.55",
+    "country": "Switzerland",
+    "countryCode": "CH",
+    "city": "Zurich",
+    "ISP": "Ultahost, Inc."
+  },
+  {
     "remark": "server46",
-    "link": "vless://e51796bb-3305-ac88-f39d-22fd9dd63b4f@130.49.77.3:443?mode=auto&path=%2F&security=reality&encryption=none&pbk=hwwiWVqYq5b7S0JaXNSxjWSEv_1OUFMaWJGHzeAGyRM&type=xhttp&sni=download.nvidia.com#France%20%F0%9F%87%AB%F0%9F%87%B7",
-    "ping": "554ms",
-    "ip": "170.168.97.2",
-    "country": "Spain",
-    "countryCode": "ES",
-    "city": "Titulcia",
-    "ISP": "Alex Largman"
+    "link": "vless://304a1e62-eb26-4b44-994e-b96a70fff9b4@ad-013.pixel9xdmq.info:8443?encryption=none&fp=chrome&host=ad-013.pixel9xdmq.info&path=%2F&security=tls&sni=ad-013.pixel9xdmq.info&type=ws#Cloudflare%20%F0%9F%8C%90",
+    "ping": "489ms",
+    "ip": "2607:5300:205:300::1076",
+    "country": "Canada",
+    "countryCode": "CA",
+    "city": "Montreal",
+    "ISP": "OVH SAS"
   },
   {
     "remark": "server47",
     "link": "vless://eb77be10-9d9e-527b-a78d-8caaf58992d6@45.13.119.219:8888?encryption=none&security=none&type=tcp#France%20%F0%9F%87%AB%F0%9F%87%B7",
-    "ping": "562ms",
+    "ping": "513ms",
     "ip": "45.13.119.219",
     "country": "France",
     "countryCode": "FR",
@@ -471,108 +471,38 @@
   },
   {
     "remark": "server48",
-    "link": "trojan://humanity@104.16.174.44:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#Cloudflare%20%F0%9F%8C%90",
-    "ping": "571ms",
-    "ip": "51.159.158.233",
-    "country": "France",
-    "countryCode": "FR",
-    "city": "Paris",
-    "ISP": "SCALEWAY"
-  },
-  {
-    "remark": "server49",
-    "link": "trojan://humanity@104.26.14.137:443?host=www.ignitelimit.com&path=%2Fassignment&sni=www.ignitelimit.com&type=ws#Cloudflare%20%F0%9F%8C%90",
-    "ping": "571ms",
-    "ip": "51.159.158.233",
-    "country": "France",
-    "countryCode": "FR",
-    "city": "Paris",
-    "ISP": "SCALEWAY"
-  },
-  {
-    "remark": "server50",
-    "link": "trojan://humanity@104.16.174.37:443?allowInsecure=1&host=www.ignitelimit.com&path=%2Fassignment&sni=www.ignitelimit.com&type=ws#Cloudflare%20%F0%9F%8C%90",
-    "ping": "574ms",
-    "ip": "51.159.158.233",
-    "country": "France",
-    "countryCode": "FR",
-    "city": "Paris",
-    "ISP": "SCALEWAY"
-  },
-  {
-    "remark": "server51",
-    "link": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.103:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#The%20Netherlands%20%F0%9F%87%B3%F0%9F%87%B1",
-    "ping": "577ms",
-    "ip": "51.158.206.103",
+    "link": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.12:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#The%20Netherlands%20%F0%9F%87%B3%F0%9F%87%B1",
+    "ping": "513ms",
+    "ip": "51.158.206.12",
     "country": "The Netherlands",
     "countryCode": "NL",
     "city": "Haarlem",
     "ISP": "Scaleway SAS"
   },
   {
-    "remark": "server52",
-    "link": "trojan://humanity@45.130.125.158:443?path=%2Fassignment&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&insecure=0&host=www.ignitelimit.com&fp=ios&type=ws&allowInsecure=0&sni=www.ignitelimit.com#Seychelles%20%F0%9F%87%B8%F0%9F%87%A8",
-    "ping": "578ms",
-    "ip": "51.159.158.233",
-    "country": "France",
-    "countryCode": "FR",
-    "city": "Paris",
-    "ISP": "SCALEWAY"
+    "remark": "server49",
+    "link": "vless://e51796bb-3305-ac88-f39d-22fd9dd63b4f@130.49.77.3:443?mode=auto&path=%2F&security=reality&encryption=none&pbk=hwwiWVqYq5b7S0JaXNSxjWSEv_1OUFMaWJGHzeAGyRM&type=xhttp&sni=download.nvidia.com#France%20%F0%9F%87%AB%F0%9F%87%B7",
+    "ping": "521ms",
+    "ip": "170.168.97.2",
+    "country": "Spain",
+    "countryCode": "ES",
+    "city": "Titulcia",
+    "ISP": "Alex Largman"
   },
   {
-    "remark": "server53",
-    "link": "trojan://humanity@104.16.174.36:443/?type=ws&host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com#Cloudflare%20%F0%9F%8C%90",
-    "ping": "579ms",
-    "ip": "51.159.158.233",
-    "country": "France",
-    "countryCode": "FR",
-    "city": "Paris",
-    "ISP": "SCALEWAY"
+    "remark": "server50",
+    "link": "vless://8b0c48db-c228-47d9-b634-6ea6edf81e22@62.238.63.51:1234?encryption=none&headerType=http&host=play.google.com&path=%2F&security=none&type=tcp#Finland%20%F0%9F%87%AB%F0%9F%87%AE",
+    "ping": "529ms",
+    "ip": "2a01:4f9:c013:1f57::1",
+    "country": "Finland",
+    "countryCode": "FI",
+    "city": "Helsinki",
+    "ISP": "Hetzner Online GmbH"
   },
   {
-    "remark": "server54",
-    "link": "vless://2a77a470-315c-493d-b690-59b814a804cb@178.83.226.55:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=sellflow.org&type=tcp#Switzerland%20%F0%9F%87%A8%F0%9F%87%AD",
-    "ping": "582ms",
-    "ip": "178.83.226.55",
-    "country": "Switzerland",
-    "countryCode": "CH",
-    "city": "Zurich",
-    "ISP": "Ultahost, Inc."
-  },
-  {
-    "remark": "server55",
-    "link": "trojan://humanity@104.16.174.71:443?host=www.ignitelimit.com&path=%2Fassignment&sni=www.ignitelimit.com&type=ws#Cloudflare%20%F0%9F%8C%90",
-    "ping": "585ms",
-    "ip": "51.159.158.233",
-    "country": "France",
-    "countryCode": "FR",
-    "city": "Paris",
-    "ISP": "SCALEWAY"
-  },
-  {
-    "remark": "server56",
-    "link": "trojan://humanity@104.16.174.117:443?host=www.ignitelimit.com&path=%2Fassignment&sni=www.ignitelimit.com&type=ws#Cloudflare%20%F0%9F%8C%90",
-    "ping": "594ms",
-    "ip": "51.159.158.233",
-    "country": "France",
-    "countryCode": "FR",
-    "city": "Paris",
-    "ISP": "SCALEWAY"
-  },
-  {
-    "remark": "server57",
-    "link": "trojan://humanity@104.18.152.225:443?host=www.ignitelimit.com&path=%2Fassignment&sni=www.ignitelimit.com&type=ws#Cloudflare%20%F0%9F%8C%90",
-    "ping": "602ms",
-    "ip": "51.159.158.233",
-    "country": "France",
-    "countryCode": "FR",
-    "city": "Paris",
-    "ISP": "SCALEWAY"
-  },
-  {
-    "remark": "server58",
-    "link": "vless://906be882-7f16-47c3-8702-59db2ada9688@2.26.82.237:443?encryption=none&fp=&pbk=VmBEjLUpiEnoNIaPNGDfVPIOzH_ktSDdsGGAvissxgI&security=reality&serviceName=grpc&sni=speed.cloudflare.com&type=grpc#Netherlands%20%F0%9F%87%B3%F0%9F%87%B1",
-    "ping": "619ms",
+    "remark": "server51",
+    "link": "vless://906be882-7f16-47c3-8702-59db2ada9688@2.26.82.237:443?encryption=none&fp=&pbk=VmBEjLUpiEnoNIaPNGDfVPIOzH_ktSDdsGGAvissxgI&security=reality&serviceName=grpc&sni=speed.cloudflare.com&type=grpc#The%20Netherlands%20%F0%9F%87%B3%F0%9F%87%B1",
+    "ping": "540ms",
     "ip": "2.26.82.237",
     "country": "The Netherlands",
     "countryCode": "NL",
@@ -580,10 +510,80 @@
     "ISP": "Play2go International Limited"
   },
   {
+    "remark": "server52",
+    "link": "vless://431fe973-a43a-4fac-bf83-2a772e0d0625@182.16.61.3:45647?security=&encryption=none&headerType=none&type=tcp#Hong%20Kong%20%F0%9F%87%AD%F0%9F%87%B0",
+    "ping": "552ms",
+    "ip": "206.82.3.130",
+    "country": "United States",
+    "countryCode": "US",
+    "city": "Los Angeles",
+    "ISP": "N963"
+  },
+  {
+    "remark": "server53",
+    "link": "vless://e73df646-1f62-41bf-8c50-653497d603d0@163.172.213.174:80?path=%2Fvless%2F&security=&encryption=none&host=SC-TheNetherlands2.09vpn.com&type=ws#The%20Netherlands%20%F0%9F%87%B3%F0%9F%87%B1",
+    "ping": "560ms",
+    "ip": "163.172.213.174",
+    "country": "The Netherlands",
+    "countryCode": "NL",
+    "city": "Haarlem",
+    "ISP": "SCALEWAY"
+  },
+  {
+    "remark": "server54",
+    "link": "vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.wto.org:2095?encryption=none&host=fuckingfangbinxing.pusytroller.cf&path=%2F&security=none&type=ws#Cloudflare%20%F0%9F%8C%90",
+    "ping": "591ms",
+    "ip": "40.81.6.248",
+    "country": "United States",
+    "countryCode": "US",
+    "city": "San Francisco",
+    "ISP": "Microsoft Corporation"
+  },
+  {
+    "remark": "server55",
+    "link": "vless://304a1e62-eb26-4b44-994e-b96a70fff9b4@ad-013.orbitqgr7v.info:8443?encryption=none&fp=chrome&host=ad-013.orbitqgr7v.info&path=%2F&security=tls&sni=ad-013.orbitqgr7v.info&type=ws#Cloudflare%20%F0%9F%8C%90",
+    "ping": "591ms",
+    "ip": "2607:5300:205:300::1076",
+    "country": "Canada",
+    "countryCode": "CA",
+    "city": "Montreal",
+    "ISP": "OVH SAS"
+  },
+  {
+    "remark": "server56",
+    "link": "vmess://eyJhZGQiOiI0NS43Ni4yMDIuNDUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiY2hyb21lIiwiaG9zdCI6IiIsImlkIjoiMDcxYThhNzEtYzY1Ni00ZmI2LWE5MDgtNGU0MmViNzIyNDNkIiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpa3N1emNwIiwicGNzIjoiIiwicG9ydCI6IjQwMTAiLCJwcyI6IkphcGFuIFx1ZDgzY1x1ZGRlZlx1ZDgzY1x1ZGRmNSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIiLCJ2Y24iOiIifQ",
+    "ping": "665ms",
+    "ip": "45.76.202.45",
+    "country": "Japan",
+    "countryCode": "JP",
+    "city": "Minamishinagawa",
+    "ISP": "The Constant Company"
+  },
+  {
+    "remark": "server57",
+    "link": "trojan://humanity@104.16.174.44:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#Cloudflare%20%F0%9F%8C%90",
+    "ping": "746ms",
+    "ip": "51.159.147.185",
+    "country": "France",
+    "countryCode": "FR",
+    "city": "Paris",
+    "ISP": "SCALEWAY"
+  },
+  {
+    "remark": "server58",
+    "link": "vless://8a6729c4-81d4-4b05-8747-3fffc17b6a64@jush.sukario.ir:443?path=%2Fmashdi&security=tls&alpn=h2&encryption=none&insecure=0&host=KxUkNaDj13.mUlTiCuT.BoNd&fp=firefox&type=ws&allowInsecure=0&sni=KxUkNaDj13.mUlTiCuT.BoNd#Cloudflare%20%F0%9F%8C%90",
+    "ping": "748ms",
+    "ip": "213.193.255.18",
+    "country": "United Kingdom",
+    "countryCode": "GB",
+    "city": "Fareham",
+    "ISP": "Packet Star Networks Limited"
+  },
+  {
     "remark": "server59",
-    "link": "trojan://humanity@216.24.57.7:443?alpn=http%2F1.1&host=www.ignitelimit.com&path=%2Fassignment&sni=www.ignitelimit.com&type=ws#United%20States%20%F0%9F%87%BA%F0%9F%87%B8",
-    "ping": "620ms",
-    "ip": "51.159.158.233",
+    "link": "trojan://humanity@104.26.14.137:443?host=www.ignitelimit.com&path=%2Fassignment&sni=www.ignitelimit.com&type=ws#Cloudflare%20%F0%9F%8C%90",
+    "ping": "753ms",
+    "ip": "51.159.147.185",
     "country": "France",
     "countryCode": "FR",
     "city": "Paris",
@@ -591,19 +591,19 @@
   },
   {
     "remark": "server60",
-    "link": "vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?encryption=none&host=de.vpnbase.net&path=%2Fhttp&security=none&type=ws#Germany%20%F0%9F%87%A9%F0%9F%87%AA",
-    "ping": "624ms",
-    "ip": "162.19.228.119",
-    "country": "Germany",
-    "countryCode": "DE",
-    "city": "Limburg an der Lahn",
-    "ISP": "OVH SAS"
+    "link": "trojan://humanity@188.114.97.7:443?path=%2Fassignment&security=tls&insecure=0&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#Cloudflare%20%F0%9F%8C%90",
+    "ping": "756ms",
+    "ip": "51.159.147.185",
+    "country": "France",
+    "countryCode": "FR",
+    "city": "Paris",
+    "ISP": "SCALEWAY"
   },
   {
     "remark": "server61",
-    "link": "trojan://humanity@104.16.174.6:443?host=www.ignitelimit.com&path=%2Fassignment&sni=www.ignitelimit.com&type=ws#Cloudflare%20%F0%9F%8C%90",
-    "ping": "635ms",
-    "ip": "51.159.158.233",
+    "link": "trojan://humanity@104.16.174.36:443/?type=ws&host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com#Cloudflare%20%F0%9F%8C%90",
+    "ping": "756ms",
+    "ip": "51.159.147.185",
     "country": "France",
     "countryCode": "FR",
     "city": "Paris",
@@ -611,9 +611,9 @@
   },
   {
     "remark": "server62",
-    "link": "trojan://humanity@45.130.125.76:443?allowInsecure=1&alpn=http%2F1.1&host=www.calmlunch.com&path=%2Fassignment&sni=www.calmlunch.com&type=ws#Seychelles%20%F0%9F%87%B8%F0%9F%87%A8",
-    "ping": "655ms",
-    "ip": "51.158.71.64",
+    "link": "trojan://humanity@45.130.125.158:443?path=%2Fassignment&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&insecure=0&host=www.ignitelimit.com&fp=ios&type=ws&allowInsecure=0&sni=www.ignitelimit.com#Seychelles%20%F0%9F%87%B8%F0%9F%87%A8",
+    "ping": "756ms",
+    "ip": "51.159.147.185",
     "country": "France",
     "countryCode": "FR",
     "city": "Paris",
@@ -621,9 +621,9 @@
   },
   {
     "remark": "server63",
-    "link": "trojan://humanity@165.215.250.14:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&type=ws&security=tls&path=%2Fassignment&host=www.calmlunch.com&sni=www.calmlunch.com&fp=chrome&insecure=1&allowInsecure=1#United%20States%20%F0%9F%87%BA%F0%9F%87%B8",
-    "ping": "657ms",
-    "ip": "51.158.71.64",
+    "link": "trojan://humanity@104.18.152.225:443?host=www.ignitelimit.com&path=%2Fassignment&sni=www.ignitelimit.com&type=ws#Cloudflare%20%F0%9F%8C%90",
+    "ping": "760ms",
+    "ip": "51.159.147.185",
     "country": "France",
     "countryCode": "FR",
     "city": "Paris",
@@ -631,18 +631,18 @@
   },
   {
     "remark": "server64",
-    "link": "trojan://humanity@104.17.111.8:443?type=ws&host=www.ignitelimit.com&path=/assignment&security=tls&sni=www.ignitelimit.com&fp=chrome&allowInsecure=0&echfq=none#Cloudflare%20%F0%9F%8C%90",
-    "ping": "659ms",
-    "ip": "51.159.158.233",
-    "country": "France",
-    "countryCode": "FR",
-    "city": "Paris",
-    "ISP": "SCALEWAY"
+    "link": "vless://48267e65-8bf0-4046-923f-4ee967009344@159.195.139.217:8443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=sellflow.org&type=tcp#Germany%20%F0%9F%87%A9%F0%9F%87%AA",
+    "ping": "788ms",
+    "ip": "159.195.139.217",
+    "country": "Germany",
+    "countryCode": "DE",
+    "city": "Nuremberg",
+    "ISP": "netcup GmbH"
   },
   {
     "remark": "server65",
     "link": "trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@154.64.226.149:9450?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=hk.catxstar.com#United%20States%20%F0%9F%87%BA%F0%9F%87%B8",
-    "ping": "696ms",
+    "ping": "811ms",
     "ip": "221.155.165.79",
     "country": "South Korea",
     "countryCode": "KR",
@@ -651,8 +651,48 @@
   },
   {
     "remark": "server66",
+    "link": "vless://9e1b3859-634f-4dc9-8f59-848a1216f47c@94.143.231.53:39200?encryption=none&headerType=http&security=none&type=tcp#Germany%20%F0%9F%87%A9%F0%9F%87%AA",
+    "ping": "812ms",
+    "ip": "94.143.231.53",
+    "country": "Germany",
+    "countryCode": "DE",
+    "city": "Frankfurt am Main",
+    "ISP": "dataforest GmbH"
+  },
+  {
+    "remark": "server67",
+    "link": "vless://431fe973-a43a-4fac-bf83-2a772e0d0625@60.249.101.14:10000?encryption=none&security=none&type=tcp#Taiwan%20%F0%9F%87%B9%F0%9F%87%BC",
+    "ping": "823ms",
+    "ip": "2001:b030:a811:6c00:61:221:84:1",
+    "country": "Taiwan",
+    "countryCode": "TW",
+    "city": "New Taipei City",
+    "ISP": "Chunghwa Telecom Co., Ltd."
+  },
+  {
+    "remark": "server68",
+    "link": "vless://6a248b82-ad33-4a8f-8ef7-cdd0ac26c261@31.56.178.59:443?security=reality&encryption=none&pbk=rg_sl-tQIau_CXdjpo-BvLmlZMmlbq2KMrH5K4kdyCY&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=us.boxypn.com#United%20States%20%F0%9F%87%BA%F0%9F%87%B8",
+    "ping": "826ms",
+    "ip": "31.56.178.59",
+    "country": "United States",
+    "countryCode": "US",
+    "city": "Kansas City",
+    "ISP": "CGI GLOBAL LIMITED"
+  },
+  {
+    "remark": "server69",
+    "link": "vless://431fe973-a43a-4fac-bf83-2a772e0d0625@60.249.101.16:10000?encryption=none&security=none&type=tcp#Taiwan%20%F0%9F%87%B9%F0%9F%87%BC",
+    "ping": "827ms",
+    "ip": "2001:b030:a811:6c00:61:221:84:1",
+    "country": "Taiwan",
+    "countryCode": "TW",
+    "city": "New Taipei City",
+    "ISP": "Chunghwa Telecom Co., Ltd."
+  },
+  {
+    "remark": "server70",
     "link": "vless://376dc930-a905-4e75-a2d5-bb801a6adc25@103.118.29.142:35730?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#Vietnam%20%F0%9F%87%BB%F0%9F%87%B3",
-    "ping": "750ms",
+    "ping": "834ms",
     "ip": "103.118.29.142",
     "country": "Vietnam",
     "countryCode": "VN",
@@ -660,39 +700,19 @@
     "ISP": "Interdigi Joint Stock Company"
   },
   {
-    "remark": "server67",
-    "link": "vless://7d74eae4-8a06-4306-a923-ad686f30bf26@57.129.41.216:80?encryption=none&host=OV-Germany1.09vpn.com&path=%2Fvless%2F&security=none&type=ws#Germany%20%F0%9F%87%A9%F0%9F%87%AA",
-    "ping": "772ms",
-    "ip": "57.129.41.216",
+    "remark": "server71",
+    "link": "vless://2a6b708e-6799-473e-85e9-d4b116c5eedc@31.76.11.46.cdn-one.org:443?encryption=none&fp=chrome&host=31.76.11.46.cdn-one.org&path=%2F52872%2FBNzG4FvIAr&security=tls&type=ws#Germany%20%F0%9F%87%A9%F0%9F%87%AA",
+    "ping": "919ms",
+    "ip": "2a09:bac5:27ba:248c::3a4:68",
     "country": "Germany",
     "countryCode": "DE",
-    "city": "Frankfurt am Main",
-    "ISP": "OVH SAS"
+    "city": "Frankfurt",
+    "ISP": "Cloudflare, Inc."
   },
   {
-    "remark": "server68",
-    "link": "vless://8a6729c4-81d4-4b05-8747-3fffc17b6a64@jush.sukario.ir:443?path=%2Fmashdi&security=tls&alpn=h2&encryption=none&insecure=0&host=KxUkNaDj13.mUlTiCuT.BoNd&fp=firefox&type=ws&allowInsecure=0&sni=KxUkNaDj13.mUlTiCuT.BoNd#Cloudflare%20%F0%9F%8C%90",
-    "ping": "853ms",
-    "ip": "213.193.255.18",
-    "country": "United Kingdom",
-    "countryCode": "GB",
-    "city": "Fareham",
-    "ISP": "Packet Star Networks Limited"
-  },
-  {
-    "remark": "server69",
-    "link": "vless://a481265c-a4d8-4d1a-9ae1-48eb3f7fccb4@159.69.193.221:1234?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#Germany%20%F0%9F%87%A9%F0%9F%87%AA",
-    "ping": "853ms",
-    "ip": "159.69.193.221",
-    "country": "Germany",
-    "countryCode": "DE",
-    "city": "Nuremberg",
-    "ISP": "Hetzner Online GmbH"
-  },
-  {
-    "remark": "server70",
+    "remark": "server72",
     "link": "trojan://d1960ba9f0f6353353994fa844cf817b@18.163.180.201:6357?sni=www.nintendogames.net#Hong%20Kong%20%F0%9F%87%AD%F0%9F%87%B0",
-    "ping": "869ms",
+    "ping": "987ms",
     "ip": "141.11.43.65",
     "country": "Singapore",
     "countryCode": "SG",
@@ -700,349 +720,9 @@
     "ISP": "Streamline Servers"
   },
   {
-    "remark": "server71",
-    "link": "vless://363202dd-0521-46b4-b4e2-443dfbaa2ce1@162.159.140.78:8880?encryption=none&host=flat-heart-b60a.401-306.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net&security=none&type=ws#Cloudflare%20%F0%9F%8C%90",
-    "ping": "899ms",
-    "ip": "144.24.73.232",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "city": "Chuncheon",
-    "ISP": "Oracle Corporation"
-  },
-  {
-    "remark": "server72",
-    "link": "vless://7e3cd2f1-0de5-4717-9002-64d8597bc577@172.64.88.251:8880?encryption=none&host=dry-credit-fc26.203-d8c.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net&security=none&type=ws#Cloudflare%20%F0%9F%8C%90",
-    "ping": "934ms",
-    "ip": "211.49.57.175",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "city": "Gunpo",
-    "ISP": "SK Broadband Co Ltd"
-  },
-  {
     "remark": "server73",
-    "link": "vless://29ca503d-e6b8-4509-b666-48133f450857@108.165.216.193:443?encryption=none&host=learn00.evany.de5.net&path=%2Ffdip&security=tls&sni=learn00.evany.de5.net&type=ws#United%20States%20%F0%9F%87%BA%F0%9F%87%B8",
-    "ping": "979ms",
-    "ip": "61.224.72.97",
-    "country": "Taiwan",
-    "countryCode": "TW",
-    "city": "Chang-hua",
-    "ISP": "Chunghwa Telecom Co., Ltd."
-  },
-  {
-    "remark": "server74",
-    "link": "vless://4d10c997-4781-4cd9-82c3-15453523e12c@198.41.209.80:443?encryption=none&fp=chrome&host=support.zoom.us.yxls.eu.cc&path=%2Fsg-melbi&security=tls&sni=support.zoom.us.yxls.eu.cc&type=ws#Cloudflare%20%F0%9F%8C%90",
-    "ping": "1008ms",
-    "ip": "91.192.81.154",
-    "country": "Singapore",
-    "countryCode": "SG",
-    "city": "Singapore",
-    "ISP": "Melbikomas UAB"
-  },
-  {
-    "remark": "server75",
-    "link": "vless://4d10c997-4781-4cd9-82c3-15453523e12c@172.66.44.97:443?encryption=none&host=support.zoom.us.yxls.eu.cc&path=%2Fsg-melbi&security=tls&sni=support.zoom.us.yxls.eu.cc&type=ws#Cloudflare%20%F0%9F%8C%90",
-    "ping": "1019ms",
-    "ip": "91.192.81.154",
-    "country": "Singapore",
-    "countryCode": "SG",
-    "city": "Singapore",
-    "ISP": "Melbikomas UAB"
-  },
-  {
-    "remark": "server76",
-    "link": "vless://9b44bfb4-9d28-4870-9fc3-5154d6d462ff@130.17.2.67:4100?path=%2Fv1&security=&encryption=none&host=live.ok.ru&type=ws#Russia%20%F0%9F%87%B7%F0%9F%87%BA",
-    "ping": "1029ms",
-    "ip": "2604:86c0:f001:39:ff7f:1dd:afbb:ac5a",
-    "country": "Germany",
-    "countryCode": "DE",
-    "city": "Frankfurt",
-    "ISP": "GTHost"
-  },
-  {
-    "remark": "server77",
-    "link": "vless://4d10c997-4781-4cd9-82c3-15453523e12c@198.41.208.112:443?encryption=none&fp=chrome&host=support.zoom.us.yxls.eu.cc&path=%2Fsg-melbi&security=tls&sni=support.zoom.us.yxls.eu.cc&type=ws#Cloudflare%20%F0%9F%8C%90",
-    "ping": "1033ms",
-    "ip": "91.192.81.154",
-    "country": "Singapore",
-    "countryCode": "SG",
-    "city": "Singapore",
-    "ISP": "Melbikomas UAB"
-  },
-  {
-    "remark": "server78",
-    "link": "vless://9b44bfb4-9d28-4870-9fc3-5154d6d462ff@130.17.2.67:2200?path=%2Fv1&security=&encryption=none&type=ws#Russia%20%F0%9F%87%B7%F0%9F%87%BA",
-    "ping": "1061ms",
-    "ip": "2604:86c0:f001:37:ff7f:1dd:afbb:ac5a",
-    "country": "Germany",
-    "countryCode": "DE",
-    "city": "Frankfurt",
-    "ISP": "GTHost"
-  },
-  {
-    "remark": "server79",
-    "link": "vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@108.162.195.7:2053?encryption=none&host=josni.hoyes.cloudns.ch&path=%2F&security=tls&sni=josni.hoyes.cloudns.ch&type=ws#United%20States%20%F0%9F%87%BA%F0%9F%87%B8",
-    "ping": "1138ms",
-    "ip": "83.147.234.163",
-    "country": "Singapore",
-    "countryCode": "SG",
-    "city": "Singapore",
-    "ISP": "First Server Limited"
-  },
-  {
-    "remark": "server80",
-    "link": "vless://4d10c997-4781-4cd9-82c3-15453523e12c@104.20.39.109:443?encryption=none&fp=chrome&host=support.zoom.us.yxls.eu.cc&path=%2Fsg-melbi&security=tls&sni=support.zoom.us.yxls.eu.cc&type=ws#Cloudflare%20%F0%9F%8C%90",
-    "ping": "1154ms",
-    "ip": "91.192.81.154",
-    "country": "Singapore",
-    "countryCode": "SG",
-    "city": "Singapore",
-    "ISP": "Melbikomas UAB"
-  },
-  {
-    "remark": "server81",
-    "link": "vless://4d10c997-4781-4cd9-82c3-15453523e12c@188.114.98.66:443?encryption=none&fp=chrome&host=support.zoom.us.yxls.eu.cc&path=%2Fsg-melbi&security=tls&sni=support.zoom.us.yxls.eu.cc&type=ws#Cloudflare%20%F0%9F%8C%90",
-    "ping": "1163ms",
-    "ip": "91.192.81.154",
-    "country": "Singapore",
-    "countryCode": "SG",
-    "city": "Singapore",
-    "ISP": "Melbikomas UAB"
-  },
-  {
-    "remark": "server82",
-    "link": "vless://4d10c997-4781-4cd9-82c3-15453523e12c@104.21.77.94:443?encryption=none&fp=chrome&host=support.zoom.us.yxls.eu.cc&path=%2Fsg-melbi&security=tls&sni=support.zoom.us.yxls.eu.cc&type=ws#Cloudflare%20%F0%9F%8C%90",
-    "ping": "1183ms",
-    "ip": "91.192.81.154",
-    "country": "Singapore",
-    "countryCode": "SG",
-    "city": "Singapore",
-    "ISP": "Melbikomas UAB"
-  },
-  {
-    "remark": "server83",
-    "link": "vless://431fe973-a43a-4fac-bf83-2a772e0d0625@182.16.61.3:45647?security=&encryption=none&headerType=none&type=tcp#Hong%20Kong%20%F0%9F%87%AD%F0%9F%87%B0",
-    "ping": "1184ms",
-    "ip": "206.82.3.130",
-    "country": "United States",
-    "countryCode": "US",
-    "city": "Los Angeles",
-    "ISP": "N963"
-  },
-  {
-    "remark": "server84",
-    "link": "vless://4d10c997-4781-4cd9-82c3-15453523e12c@198.41.209.43:443?encryption=none&fp=chrome&host=support.zoom.us.yxls.eu.cc&path=%2Fsg-melbi&security=tls&sni=support.zoom.us.yxls.eu.cc&type=ws#Cloudflare%20%F0%9F%8C%90",
-    "ping": "1193ms",
-    "ip": "91.192.81.154",
-    "country": "Singapore",
-    "countryCode": "SG",
-    "city": "Singapore",
-    "ISP": "Melbikomas UAB"
-  },
-  {
-    "remark": "server85",
-    "link": "vless://4d10c997-4781-4cd9-82c3-15453523e12c@104.25.244.217:443?encryption=none&fp=chrome&host=support.zoom.us.yxls.eu.cc&path=%2Fsg-melbi&security=tls&sni=support.zoom.us.yxls.eu.cc&type=ws#Cloudflare%20%F0%9F%8C%90",
-    "ping": "1202ms",
-    "ip": "91.192.81.154",
-    "country": "Singapore",
-    "countryCode": "SG",
-    "city": "Singapore",
-    "ISP": "Melbikomas UAB"
-  },
-  {
-    "remark": "server86",
-    "link": "vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@josni.hoyes.cloudns.ch:2053?encryption=none&host=josni.hoyes.cloudns.ch&path=%2F&security=tls&sni=josni.hoyes.cloudns.ch&type=ws#Cloudflare%20%F0%9F%8C%90",
-    "ping": "1244ms",
-    "ip": "47.82.155.79",
-    "country": "Singapore",
-    "countryCode": "SG",
-    "city": "Singapore",
-    "ISP": "Alibaba (US) Technology Co., Ltd."
-  },
-  {
-    "remark": "server87",
-    "link": "vless://4d10c997-4781-4cd9-82c3-15453523e12c@172.64.146.86:443?encryption=none&fp=chrome&host=support.zoom.us.yxls.eu.cc&path=%2Fsg-melbi&security=tls&sni=support.zoom.us.yxls.eu.cc&type=ws#Cloudflare%20%F0%9F%8C%90",
-    "ping": "1247ms",
-    "ip": "91.192.81.154",
-    "country": "Singapore",
-    "countryCode": "SG",
-    "city": "Singapore",
-    "ISP": "Melbikomas UAB"
-  },
-  {
-    "remark": "server88",
-    "link": "vless://428bed8a-ecc3-4621-ad11-3a8ed90886ec@5hsytrdbbvcrxokk.localip.ir:443?path=%2Fmashdi&security=tls&alpn=h2&encryption=none&insecure=0&fp=firefox&type=xhttp&allowInsecure=0&sni=17bxjzhhgbdudihdskss1.jakkkat.ir#Cloudflare%20%F0%9F%8C%90",
-    "ping": "1302ms",
-    "ip": "5.75.241.159",
-    "country": "Germany",
-    "countryCode": "DE",
-    "city": "Falkenstein",
-    "ISP": "Hetzner Online GmbH"
-  },
-  {
-    "remark": "server89",
-    "link": "vmess://eyJ2IjoiMiIsInBzIjoiSG9uZyBLb25nIFx1ZDgzY1x1ZGRlZFx1ZDgzY1x1ZGRmMCIsImFkZCI6ImVqb21zeHB0cDE5YXB5Z2wudi4zZG5zLnZpcCIsInBvcnQiOiI0NDMiLCJ0eXBlIjoibm9uZSIsImlkIjoiZjIzYmI0MjdjMWY5NDM3Mzg3NmMyZjQzZTlmNzkwZjMiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL3dzLXZtZXNzIiwiaG9zdCI6ImVqT01zeFB0UDE5QVB5R0wudi4zZG5zLnZpcCIsInRscyI6InRscyIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9",
-    "ping": "1309ms",
-    "ip": "47.242.79.198",
-    "country": "Hong Kong",
-    "countryCode": "HK",
-    "city": "Hong Kong",
-    "ISP": "Alibaba.com LLC"
-  },
-  {
-    "remark": "server90",
-    "link": "vless://4d10c997-4781-4cd9-82c3-15453523e12c@108.162.198.5:443?encryption=none&host=support.zoom.us.yxls.eu.cc&path=%2Fsg-melbi&security=tls&sni=support.zoom.us.yxls.eu.cc&type=ws#United%20States%20%F0%9F%87%BA%F0%9F%87%B8",
-    "ping": "1310ms",
-    "ip": "91.192.81.154",
-    "country": "Singapore",
-    "countryCode": "SG",
-    "city": "Singapore",
-    "ISP": "Melbikomas UAB"
-  },
-  {
-    "remark": "server91",
-    "link": "vless://7db9bcc1-78f1-455d-944b-3363b867e670@172.64.88.251:8880?encryption=none&host=long-wildflower-3df6.341-165.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net&security=none&type=ws#Cloudflare%20%F0%9F%8C%90",
-    "ping": "1363ms",
-    "ip": "178.128.86.3",
-    "country": "Singapore",
-    "countryCode": "SG",
-    "city": "Singapore",
-    "ISP": "DigitalOcean, LLC"
-  },
-  {
-    "remark": "server92",
-    "link": "vless://2e8beadd-99bf-4fda-8692-8493886504bc@ad-007.cloud25075.info:8443?encryption=none&fp=chrome&host=ad-007.cloud25075.info&path=%2F&security=tls&sni=ad-007.cloud25075.info&type=ws#Cloudflare%20%F0%9F%8C%90",
-    "ping": "1378ms",
-    "ip": "2001:41d0:801:1000::22f9",
-    "country": "United Kingdom",
-    "countryCode": "GB",
-    "city": "Brentford",
-    "ISP": "OVH SAS"
-  },
-  {
-    "remark": "server93",
-    "link": "vless://0c0b895d-b954-4bec-94e6-5770677e7925@199.232.78.159:443?allowInsecure=1&sni=ssl.fastly.com&type=ws&host=pan1.global.ssl.fastly.neT&path=/TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER?ed=2053fp=chrome&security=tls#United%20States%20%F0%9F%87%BA%F0%9F%87%B8",
-    "ping": "1382ms",
-    "ip": "157.180.86.166",
-    "country": "Finland",
-    "countryCode": "FI",
-    "city": "Helsinki",
-    "ISP": "Hetzner Online GmbH"
-  },
-  {
-    "remark": "server94",
-    "link": "vmess://eyJ2IjoiMiIsInBzIjoiSG9uZyBLb25nIFx1ZDgzY1x1ZGRlZFx1ZDgzY1x1ZGRmMCIsImFkZCI6IjkzdWNybjRpMHBmZnVhYmsudi4zZG5zLnZpcCIsInBvcnQiOiI0NDMiLCJ0eXBlIjoibm9uZSIsImlkIjoiZjIzYmI0MjdjMWY5NDM3Mzg3NmMyZjQzZTlmNzkwZjMiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL3dzLXZtZXNzIiwiaG9zdCI6IjkzdWNybjRpMFBmZlVBYmsudi4zZG5zLnZpcCIsInRscyI6InRscyIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9",
-    "ping": "1402ms",
-    "ip": "47.76.44.32",
-    "country": "Hong Kong",
-    "countryCode": "HK",
-    "city": "Hong Kong",
-    "ISP": "Alibaba Cloud LLC"
-  },
-  {
-    "remark": "server95",
-    "link": "vmess://eyJ2IjoiMiIsInBzIjoiSG9uZyBLb25nIFx1ZDgzY1x1ZGRlZFx1ZDgzY1x1ZGRmMCIsImFkZCI6InUyZnJ4ajBnMTN2ZGkwd28udi4zZG5zLnZpcCIsInBvcnQiOiI0NDMiLCJ0eXBlIjoibm9uZSIsImlkIjoiZjIzYmI0MjdjMWY5NDM3Mzg3NmMyZjQzZTlmNzkwZjMiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL3dzLXZtZXNzIiwiaG9zdCI6IlUyRlJ4ajBHMTN2REkwV28udi4zZG5zLnZpcCIsInRscyI6InRscyIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9",
-    "ping": "1402ms",
-    "ip": "8.210.108.58",
-    "country": "Hong Kong",
-    "countryCode": "HK",
-    "city": "Hong Kong",
-    "ISP": "Alibaba.com LLC"
-  },
-  {
-    "remark": "server96",
-    "link": "vmess://eyJ2IjoiMiIsInBzIjoiSG9uZyBLb25nIFx1ZDgzY1x1ZGRlZFx1ZDgzY1x1ZGRmMCIsImFkZCI6Im0wMWM3YjJ6MjZkdHFnZWUudi4zZG5zLnZpcCIsInBvcnQiOiI0NDMiLCJ0eXBlIjoibm9uZSIsImlkIjoiZjIzYmI0MjdjMWY5NDM3Mzg3NmMyZjQzZTlmNzkwZjMiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL3dzLXZtZXNzIiwiaG9zdCI6Ik0wMWM3QjJ6MjZEdFFHRWUudi4zZG5zLnZpcCIsInRscyI6InRscyIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9",
-    "ping": "1406ms",
-    "ip": "47.76.197.72",
-    "country": "Hong Kong",
-    "countryCode": "HK",
-    "city": "Hong Kong",
-    "ISP": "Alibaba Cloud LLC"
-  },
-  {
-    "remark": "server97",
-    "link": "vless://2e8beadd-99bf-4fda-8692-8493886504bc@172.67.175.34:8443?encryption=none&fp=chrome&host=ad-007.cloud25075.info&path=%2F&security=tls&sni=ad-007.cloud25075.info&type=ws#Cloudflare%20%F0%9F%8C%90",
-    "ping": "1413ms",
-    "ip": "2001:41d0:801:1000::22f9",
-    "country": "United Kingdom",
-    "countryCode": "GB",
-    "city": "Brentford",
-    "ISP": "OVH SAS"
-  },
-  {
-    "remark": "server98",
-    "link": "vless://8b0c48db-c228-47d9-b634-6ea6edf81e22@62.238.51.180:1234?encryption=none&headerType=http&host=play.google.com&path=%2F&security=none&type=tcp#Finland%20%F0%9F%87%AB%F0%9F%87%AE",
-    "ping": "1453ms",
-    "ip": "2a01:4f9:c013:67c4::1",
-    "country": "Finland",
-    "countryCode": "FI",
-    "city": "Helsinki",
-    "ISP": "Hetzner Online GmbH"
-  },
-  {
-    "remark": "server99",
-    "link": "vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@104.18.37.228:443?encryption=none&host=hhlfy.twiladaphne.ndjp.net&path=%2Ffp&security=tls&sni=hhlfy.twiladaphne.ndjp.net&type=ws#Cloudflare%20%F0%9F%8C%90",
-    "ping": "1658ms",
-    "ip": "43.134.174.114",
-    "country": "Singapore",
-    "countryCode": "SG",
-    "city": "Singapore",
-    "ISP": "Aceville Pte.ltd"
-  },
-  {
-    "remark": "server100",
-    "link": "vmess://eyJ2IjoiMiIsInBzIjoiSG9uZyBLb25nIFx1ZDgzY1x1ZGRlZFx1ZDgzY1x1ZGRmMCIsImFkZCI6IjZqZHZhcmF6Z3UzcXFyNnEudi4zZG5zLnZpcCIsInBvcnQiOjQ0MywiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInRscyI6InRscyIsImlkIjoiZjIzYmI0MjdjMWY5NDM3Mzg3NmMyZjQzZTlmNzkwZjMiLCJzbmkiOiI2SkR2QXJhemdVM3FRUjZRLnYuM2Rucy52aXAiLCJob3N0IjoiNkpEdkFyYXpnVTNxUVI2US52LjNkbnMudmlwIiwicGF0aCI6Ii93cy12bWVzcyIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9",
-    "ping": "1894ms",
-    "ip": "47.83.19.148",
-    "country": "Hong Kong",
-    "countryCode": "HK",
-    "city": "Hong Kong",
-    "ISP": "Alibaba.com LLC"
-  },
-  {
-    "remark": "server101",
-    "link": "vless://4d10c997-4781-4cd9-82c3-15453523e12c@170.114.45.6:443?encryption=none&host=support.zoom.us.yxls.eu.cc&path=%2Fsg-melbi&security=tls&sni=support.zoom.us.yxls.eu.cc&type=ws#United%20States%20%F0%9F%87%BA%F0%9F%87%B8",
-    "ping": "2136ms",
-    "ip": "91.192.81.154",
-    "country": "Singapore",
-    "countryCode": "SG",
-    "city": "Singapore",
-    "ISP": "Melbikomas UAB"
-  },
-  {
-    "remark": "server102",
-    "link": "vless://4d10c997-4781-4cd9-82c3-15453523e12c@162.159.137.54:443?encryption=none&fp=chrome&host=support.zoom.us.yxls.eu.cc&path=%2Fsg-melbi&security=tls&sni=support.zoom.us.yxls.eu.cc&type=ws#Cloudflare%20%F0%9F%8C%90",
-    "ping": "2166ms",
-    "ip": "91.192.81.154",
-    "country": "Singapore",
-    "countryCode": "SG",
-    "city": "Singapore",
-    "ISP": "Melbikomas UAB"
-  },
-  {
-    "remark": "server103",
-    "link": "vless://4d10c997-4781-4cd9-82c3-15453523e12c@104.21.2.192:443?encryption=none&fp=chrome&host=support.zoom.us.yxls.eu.cc&path=%2Fsg-melbi&security=tls&sni=support.zoom.us.yxls.eu.cc&type=ws#Cloudflare%20%F0%9F%8C%90",
-    "ping": "2184ms",
-    "ip": "91.192.81.154",
-    "country": "Singapore",
-    "countryCode": "SG",
-    "city": "Singapore",
-    "ISP": "Melbikomas UAB"
-  },
-  {
-    "remark": "server104",
-    "link": "vless://8b0c48db-c228-47d9-b634-6ea6edf81e22@159.69.193.221:1234?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#Germany%20%F0%9F%87%A9%F0%9F%87%AA",
-    "ping": "2721ms",
-    "ip": "159.69.193.221",
-    "country": "Germany",
-    "countryCode": "DE",
-    "city": "Nuremberg",
-    "ISP": "Hetzner Online GmbH"
-  },
-  {
-    "remark": "server105",
     "link": "vmess://eyJ2IjoiMiIsInBzIjoiSG9uZyBLb25nIFx1ZDgzY1x1ZGRlZFx1ZDgzY1x1ZGRmMCIsImFkZCI6IjJiOWh3eThvY3g3cTc0bm0udi4zZG5zLnZpcCIsInBvcnQiOiI0NDMiLCJ0eXBlIjoibm9uZSIsImlkIjoiZjIzYmI0MjdjMWY5NDM3Mzg3NmMyZjQzZTlmNzkwZjMiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL3dzLXZtZXNzIiwiaG9zdCI6IjJiOWh3WThvQ3g3UTc0Tk0udi4zZG5zLnZpcCIsInRscyI6InRscyIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9",
-    "ping": "3041ms",
+    "ping": "1108ms",
     "ip": "8.210.189.158",
     "country": "Hong Kong",
     "countryCode": "HK",
@@ -1050,49 +730,89 @@
     "ISP": "Alibaba (US) Technology Co., Ltd."
   },
   {
-    "remark": "server106",
-    "link": "vmess://eyJ2IjoiMiIsInBzIjoiSG9uZyBLb25nIFx1ZDgzY1x1ZGRlZFx1ZDgzY1x1ZGRmMCIsImFkZCI6Ind3YWZqNWxobDZiaThhdTkudi4zZG5zLnZpcCIsInBvcnQiOiI0NDMiLCJ0eXBlIjoibm9uZSIsImlkIjoiZjIzYmI0MjdjMWY5NDM3Mzg3NmMyZjQzZTlmNzkwZjMiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL3dzLXZtZXNzIiwiaG9zdCI6Ind3YWZqNUxIbDZiSThhVTkudi4zZG5zLnZpcCIsInRscyI6InRscyIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9",
-    "ping": "3121ms",
-    "ip": "47.83.198.38",
-    "country": "Hong Kong",
-    "countryCode": "HK",
-    "city": "Hong Kong",
-    "ISP": "Alibaba (US) Technology Co., Ltd."
+    "remark": "server74",
+    "link": "vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@108.162.195.7:2053?encryption=none&host=josni.hoyes.cloudns.ch&path=%2F&security=tls&sni=josni.hoyes.cloudns.ch&type=ws#Canada%20%F0%9F%87%A8%F0%9F%87%A6",
+    "ping": "1127ms",
+    "ip": "128.199.255.242",
+    "country": "Singapore",
+    "countryCode": "SG",
+    "city": "Singapore",
+    "ISP": "DigitalOcean, LLC"
   },
   {
-    "remark": "server107",
-    "link": "vmess://eyJ2IjoiMiIsInBzIjoiSG9uZyBLb25nIFx1ZDgzY1x1ZGRlZFx1ZDgzY1x1ZGRmMCIsImFkZCI6Im10Y2t1bmRpZ2Vwd3UzdXAudi4zZG5zLnZpcCIsInBvcnQiOiI0NDMiLCJ0eXBlIjoibm9uZSIsImlkIjoiZjIzYmI0MjdjMWY5NDM3Mzg3NmMyZjQzZTlmNzkwZjMiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL3dzLXZtZXNzIiwiaG9zdCI6Im1UQ0tVTkRpR2VQd1UzdVAudi4zZG5zLnZpcCIsInRscyI6InRscyIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9",
-    "ping": "3252ms",
-    "ip": "47.243.92.155",
-    "country": "Hong Kong",
-    "countryCode": "HK",
-    "city": "Hong Kong",
-    "ISP": "Alibaba Cloud LLC"
+    "remark": "server75",
+    "link": "vless://29ca503d-e6b8-4509-b666-48133f450857@162.159.2.40:443?encryption=none&fp=chrome&host=learn00.evany.de5.net&path=%2Ffdip%3Dtw.william.us.ci%21txt&security=tls&sni=learn00.evany.de5.net&type=ws#Cloudflare%20%F0%9F%8C%90",
+    "ping": "1195ms",
+    "ip": "61.222.202.153",
+    "country": "Taiwan",
+    "countryCode": "TW",
+    "city": "Taipei",
+    "ISP": "Chunghwa Telecom Co., Ltd."
   },
   {
-    "remark": "server108",
-    "link": "vless://d38fb586-bec2-4892-f774-7789068e32d5@191.101.130.131:38001?security=&encryption=none&host=varzesh3.com&headerType=http&type=tcp#United%20States%20%F0%9F%87%BA%F0%9F%87%B8",
-    "ping": "3485ms",
-    "ip": "18.88.45.13",
-    "country": "United States",
-    "countryCode": "US",
-    "city": "Ashburn",
-    "ISP": "Amazon Technologies Inc."
-  },
-  {
-    "remark": "server109",
-    "link": "vless://2a6b708e-6799-473e-85e9-d4b116c5eedc@31.76.11.46.cdn-one.org:443?encryption=none&fp=chrome&host=31.76.11.46.cdn-one.org&path=%2F52872%2FBNzG4FvIAr&security=tls&type=ws#Germany%20%F0%9F%87%A9%F0%9F%87%AA",
-    "ping": "3623ms",
-    "ip": "2a09:bac5:27bd:28d2::411:20",
+    "remark": "server76",
+    "link": "vless://428bed8a-ecc3-4621-ad11-3a8ed90886ec@5hsytrdbbvcrxokk.localip.ir:443?path=%2Fmashdi&security=tls&alpn=h2&encryption=none&insecure=0&fp=firefox&type=xhttp&allowInsecure=0&sni=17bxjzhhgbdudihdskss1.jakkkat.ir#Cloudflare%20%F0%9F%8C%90",
+    "ping": "1217ms",
+    "ip": "2.28.6.38",
     "country": "Germany",
     "countryCode": "DE",
-    "city": "Frankfurt",
-    "ISP": "Cloudflare, Inc."
+    "city": "Falkenstein",
+    "ISP": "Hetzner Online GmbH"
   },
   {
-    "remark": "server110",
+    "remark": "server77",
+    "link": "vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@104.18.37.228:443?encryption=none&host=hhlfy.twiladaphne.ndjp.net&path=%2Ffp&security=tls&sni=hhlfy.twiladaphne.ndjp.net&type=ws#Cloudflare%20%F0%9F%8C%90",
+    "ping": "1317ms",
+    "ip": "178.128.86.3",
+    "country": "Singapore",
+    "countryCode": "SG",
+    "city": "Singapore",
+    "ISP": "DigitalOcean, LLC"
+  },
+  {
+    "remark": "server78",
+    "link": "vless://2e8beadd-99bf-4fda-8692-8493886504bc@172.67.175.34:8443?encryption=none&fp=chrome&host=ad-007.cloud25075.info&path=%2F&security=tls&sni=ad-007.cloud25075.info&type=ws#Cloudflare%20%F0%9F%8C%90",
+    "ping": "1331ms",
+    "ip": "2001:41d0:801:1000::22f9",
+    "country": "United Kingdom",
+    "countryCode": "GB",
+    "city": "Brentford",
+    "ISP": "OVH SAS"
+  },
+  {
+    "remark": "server79",
+    "link": "vless://a481265c-a4d8-4d1a-9ae1-48eb3f7fccb4@159.69.193.221:1234?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#Germany%20%F0%9F%87%A9%F0%9F%87%AA",
+    "ping": "1402ms",
+    "ip": "159.69.193.221",
+    "country": "Germany",
+    "countryCode": "DE",
+    "city": "Nuremberg",
+    "ISP": "Hetzner Online GmbH"
+  },
+  {
+    "remark": "server80",
+    "link": "vless://2e8beadd-99bf-4fda-8692-8493886504bc@ad-007.cloud25075.info:8443?encryption=none&fp=chrome&host=ad-007.cloud25075.info&path=%2F&security=tls&sni=ad-007.cloud25075.info&type=ws#Cloudflare%20%F0%9F%8C%90",
+    "ping": "1420ms",
+    "ip": "2001:41d0:801:1000::22f9",
+    "country": "United Kingdom",
+    "countryCode": "GB",
+    "city": "Brentford",
+    "ISP": "OVH SAS"
+  },
+  {
+    "remark": "server81",
+    "link": "vless://29ca503d-e6b8-4509-b666-48133f450857@one-for-all.levikogjgfdd.ir:443?encryption=none&host=learn00.evany.de5.net&path=%2Ffdip&security=tls&sni=learn00.evany.de5.net&type=ws#Cloudflare%20%F0%9F%8C%90",
+    "ping": "1441ms",
+    "ip": "61.222.202.153",
+    "country": "Taiwan",
+    "countryCode": "TW",
+    "city": "Taipei",
+    "ISP": "Chunghwa Telecom Co., Ltd."
+  },
+  {
+    "remark": "server82",
     "link": "vmess://eyJ2IjoiMiIsInBzIjoiSG9uZyBLb25nIFx1ZDgzY1x1ZGRlZFx1ZDgzY1x1ZGRmMCIsImFkZCI6Imxjdjh2OWw3b3lhbXh4Znoudi4zZG5zLnZpcCIsInBvcnQiOjQ0MywiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInRscyI6InRscyIsImlkIjoiZjIzYmI0MjdjMWY5NDM3Mzg3NmMyZjQzZTlmNzkwZjMiLCJzbmkiOiJsY3Y4djlsN095YW14eGZaLnYuM2Rucy52aXAiLCJob3N0IjoibGN2OHY5bDdPeWFteHhmWi52LjNkbnMudmlwIiwicGF0aCI6Ii93cy12bWVzcyIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9",
-    "ping": "3755ms",
+    "ping": "1558ms",
     "ip": "47.86.107.119",
     "country": "Hong Kong",
     "countryCode": "HK",
@@ -1100,10 +820,290 @@
     "ISP": "Alibaba Cloud LLC"
   },
   {
+    "remark": "server83",
+    "link": "vless://29ca503d-e6b8-4509-b666-48133f450857@172.64.35.32:8443?encryption=none&fp=chrome&host=learn00.evany.de5.net&path=%2Ffdip&security=tls&sni=learn00.evany.de5.net&type=ws#Cloudflare%20%F0%9F%8C%90",
+    "ping": "1621ms",
+    "ip": "61.224.72.97",
+    "country": "Taiwan",
+    "countryCode": "TW",
+    "city": "Chang-hua",
+    "ISP": "Chunghwa Telecom Co., Ltd."
+  },
+  {
+    "remark": "server84",
+    "link": "vmess://eyJ2IjoiMiIsInBzIjoiSG9uZyBLb25nIFx1ZDgzY1x1ZGRlZFx1ZDgzY1x1ZGRmMCIsImFkZCI6ImVqb21zeHB0cDE5YXB5Z2wudi4zZG5zLnZpcCIsInBvcnQiOiI0NDMiLCJ0eXBlIjoibm9uZSIsImlkIjoiZjIzYmI0MjdjMWY5NDM3Mzg3NmMyZjQzZTlmNzkwZjMiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL3dzLXZtZXNzIiwiaG9zdCI6ImVqT01zeFB0UDE5QVB5R0wudi4zZG5zLnZpcCIsInRscyI6InRscyIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9",
+    "ping": "1641ms",
+    "ip": "47.242.79.198",
+    "country": "Hong Kong",
+    "countryCode": "HK",
+    "city": "Hong Kong",
+    "ISP": "Alibaba.com LLC"
+  },
+  {
+    "remark": "server85",
+    "link": "vmess://eyJ2IjoiMiIsInBzIjoiSG9uZyBLb25nIFx1ZDgzY1x1ZGRlZFx1ZDgzY1x1ZGRmMCIsImFkZCI6IjZqZHZhcmF6Z3UzcXFyNnEudi4zZG5zLnZpcCIsInBvcnQiOjQ0MywiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInRscyI6InRscyIsImlkIjoiZjIzYmI0MjdjMWY5NDM3Mzg3NmMyZjQzZTlmNzkwZjMiLCJzbmkiOiI2SkR2QXJhemdVM3FRUjZRLnYuM2Rucy52aXAiLCJob3N0IjoiNkpEdkFyYXpnVTNxUVI2US52LjNkbnMudmlwIiwicGF0aCI6Ii93cy12bWVzcyIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9",
+    "ping": "1649ms",
+    "ip": "47.83.19.148",
+    "country": "Hong Kong",
+    "countryCode": "HK",
+    "city": "Hong Kong",
+    "ISP": "Alibaba.com LLC"
+  },
+  {
+    "remark": "server86",
+    "link": "vless://9047efd2-5aa4-4c9c-a58f-a5791b06c79e@ad-010.vector9nmb3.info:8443?encryption=none&fp=chrome&host=ad-010.vector9nmb3.info&path=%2F&security=tls&sni=ad-010.vector9nmb3.info&type=ws#Cloudflare%20%F0%9F%8C%90",
+    "ping": "1674ms",
+    "ip": "2001:41d0:801:1000::21c8",
+    "country": "United Kingdom",
+    "countryCode": "GB",
+    "city": "Brentford",
+    "ISP": "OVH SAS"
+  },
+  {
+    "remark": "server87",
+    "link": "vless://9047efd2-5aa4-4c9c-a58f-a5791b06c79e@ad-010.limaklhc6.info:8443?encryption=none&host=ad-010.limaklhc6.info&path=%2F&security=tls&sni=ad-010.limaklhc6.info&type=ws#Cloudflare%20%F0%9F%8C%90",
+    "ping": "1677ms",
+    "ip": "2001:41d0:801:1000::21c8",
+    "country": "United Kingdom",
+    "countryCode": "GB",
+    "city": "Brentford",
+    "ISP": "OVH SAS"
+  },
+  {
+    "remark": "server88",
+    "link": "vless://29ca503d-e6b8-4509-b666-48133f450857@108.162.195.58:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=learn00.evany.de5.net&path=%2Ffdip%3Dtw.william.us.ci%21txt&security=tls&sni=learn00.evany.de5.net&type=ws#Canada%20%F0%9F%87%A8%F0%9F%87%A6",
+    "ping": "1678ms",
+    "ip": "61.224.72.97",
+    "country": "Taiwan",
+    "countryCode": "TW",
+    "city": "Chang-hua",
+    "ISP": "Chunghwa Telecom Co., Ltd."
+  },
+  {
+    "remark": "server89",
+    "link": "vless://9047efd2-5aa4-4c9c-a58f-a5791b06c79e@104.21.40.208:8443?path=%2F&security=tls&encryption=none&insecure=0&host=ad-010.vector2llqn.info&fp=chrome&type=ws&allowInsecure=0&sni=ad-010.vector2llqn.info#Cloudflare%20%F0%9F%8C%90",
+    "ping": "1721ms",
+    "ip": "2001:41d0:801:1000::21c8",
+    "country": "United Kingdom",
+    "countryCode": "GB",
+    "city": "Brentford",
+    "ISP": "OVH SAS"
+  },
+  {
+    "remark": "server90",
+    "link": "vless://29ca503d-e6b8-4509-b666-48133f450857@orange.seeck.cn:443?path=%2Ffdip&security=tls&encryption=none&insecure=0&host=learn00.evany.de5.net&fp=random&type=ws&allowInsecure=0&sni=learn00.evany.de5.net#Cloudflare%20%F0%9F%8C%90",
+    "ping": "1797ms",
+    "ip": "61.224.72.97",
+    "country": "Taiwan",
+    "countryCode": "TW",
+    "city": "Chang-hua",
+    "ISP": "Chunghwa Telecom Co., Ltd."
+  },
+  {
+    "remark": "server91",
+    "link": "vless://9047efd2-5aa4-4c9c-a58f-a5791b06c79e@ad-010.vector2llqn.info:8443?encryption=none&fp=chrome&host=ad-010.vector2llqn.info&path=%2F&security=tls&sni=ad-010.vector2llqn.info&type=ws#Cloudflare%20%F0%9F%8C%90",
+    "ping": "1806ms",
+    "ip": "2001:41d0:801:1000::21c8",
+    "country": "United Kingdom",
+    "countryCode": "GB",
+    "city": "Brentford",
+    "ISP": "OVH SAS"
+  },
+  {
+    "remark": "server92",
+    "link": "vless://29ca503d-e6b8-4509-b666-48133f450857@172.64.146.59:2087?path=%2Ffdip&security=tls&encryption=none&insecure=0&host=learn00.evany.de5.net&fp=random&type=ws&allowInsecure=0&sni=learn00.evany.de5.net#Cloudflare%20%F0%9F%8C%90",
+    "ping": "1812ms",
+    "ip": "36.235.147.172",
+    "country": "Taiwan",
+    "countryCode": "TW",
+    "city": "Chang-hua",
+    "ISP": "Chunghwa Telecom Co., Ltd."
+  },
+  {
+    "remark": "server93",
+    "link": "vless://29ca503d-e6b8-4509-b666-48133f450857@172.66.44.97:443?path=%2Fsg-melbi&security=tls&encryption=none&insecure=0&host=learn00.evany.de5.net&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=learn00.evany.de5.net#Cloudflare%20%F0%9F%8C%90",
+    "ping": "1832ms",
+    "ip": "61.224.72.97",
+    "country": "Taiwan",
+    "countryCode": "TW",
+    "city": "Chang-hua",
+    "ISP": "Chunghwa Telecom Co., Ltd."
+  },
+  {
+    "remark": "server94",
+    "link": "vless://29ca503d-e6b8-4509-b666-48133f450857@millionaire.levikogjgfdd.ir:443?encryption=none&host=learn00.evany.de5.net&path=%2Ffdip&security=tls&sni=learn00.evany.de5.net&type=ws#Cloudflare%20%F0%9F%8C%90",
+    "ping": "1867ms",
+    "ip": "61.224.72.97",
+    "country": "Taiwan",
+    "countryCode": "TW",
+    "city": "Chang-hua",
+    "ISP": "Chunghwa Telecom Co., Ltd."
+  },
+  {
+    "remark": "server95",
+    "link": "vmess://eyJhZGQiOiJ3d3cubmV4dGt5Yy5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InYycmF5MS5kb3phcHAueHl6IiwiaWQiOiI2MDQ0MTU0OC1iNjhlLTQzYjItODE5MS1lM2I4ODRiZTRiM2MiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbE1uc1pVTjQvIiwicG9ydCI6Ijg0NDMiLCJwcyI6IlVuaXRlZCBTdGF0ZXMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4Iiwic2N5IjoiYXV0byIsInNuaSI6InYycmF5MS5kb3phcHAueHl6IiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0",
+    "ping": "1967ms",
+    "ip": "207.244.230.92",
+    "country": "United States",
+    "countryCode": "US",
+    "city": "St Louis",
+    "ISP": "Contabo Inc."
+  },
+  {
+    "remark": "server96",
+    "link": "vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@josni.hoyes.cloudns.ch:2053?encryption=none&host=josni.hoyes.cloudns.ch&path=%2F&security=tls&sni=josni.hoyes.cloudns.ch&type=ws#Canada%20%F0%9F%87%A8%F0%9F%87%A6",
+    "ping": "1977ms",
+    "ip": "2401:7400:c000:4::438",
+    "country": "Singapore",
+    "countryCode": "SG",
+    "city": "Singapore",
+    "ISP": "M1 LIMITED"
+  },
+  {
+    "remark": "server97",
+    "link": "vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?encryption=none&host=de.vpnbase.net&path=%2Fhttp&security=none&type=ws#Germany%20%F0%9F%87%A9%F0%9F%87%AA",
+    "ping": "1978ms",
+    "ip": "162.19.228.119",
+    "country": "Germany",
+    "countryCode": "DE",
+    "city": "Limburg an der Lahn",
+    "ISP": "OVH SAS"
+  },
+  {
+    "remark": "server98",
+    "link": "vmess://eyJhZGQiOiIxMDQuMTcuNzcuNzciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InYycmF5MS5kb3phcHAueHl6IiwiaWQiOiI2MDQ0MTU0OC1iNjhlLTQzYjItODE5MS1lM2I4ODRiZTRiM2MiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbE1uc1pVTjQvIiwicG9ydCI6Ijg0NDMiLCJwcyI6IlVuaXRlZCBTdGF0ZXMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4Iiwic2N5IjoiYXV0byIsInNuaSI6InYycmF5MS5kb3phcHAueHl6IiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0",
+    "ping": "1994ms",
+    "ip": "207.244.230.92",
+    "country": "United States",
+    "countryCode": "US",
+    "city": "St Louis",
+    "ISP": "Contabo Inc."
+  },
+  {
+    "remark": "server99",
+    "link": "vless://9047efd2-5aa4-4c9c-a58f-a5791b06c79e@ad-010.zen2bswa.info:8443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=ad-010.zen2bswa.info&path=%2F&security=tls&sni=ad-010.zen2bswa.info&type=ws#Cloudflare%20%F0%9F%8C%90",
+    "ping": "2118ms",
+    "ip": "2001:41d0:801:1000::21c8",
+    "country": "United Kingdom",
+    "countryCode": "GB",
+    "city": "Brentford",
+    "ISP": "OVH SAS"
+  },
+  {
+    "remark": "server100",
+    "link": "vless://9047efd2-5aa4-4c9c-a58f-a5791b06c79e@ad-020.cloud25075.info:8443?encryption=none&fp=chrome&host=ad-020.cloud25075.info&path=%2F&security=tls&sni=ad-020.cloud25075.info&type=ws#Cloudflare%20%F0%9F%8C%90",
+    "ping": "2246ms",
+    "ip": "2001:41d0:801:1000::21c8",
+    "country": "United Kingdom",
+    "countryCode": "GB",
+    "city": "Brentford",
+    "ISP": "OVH SAS"
+  },
+  {
+    "remark": "server101",
+    "link": "vless://8b0c48db-c228-47d9-b634-6ea6edf81e22@159.69.193.221:1234?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#Germany%20%F0%9F%87%A9%F0%9F%87%AA",
+    "ping": "2378ms",
+    "ip": "159.69.193.221",
+    "country": "Germany",
+    "countryCode": "DE",
+    "city": "Nuremberg",
+    "ISP": "Hetzner Online GmbH"
+  },
+  {
+    "remark": "server102",
+    "link": "vless://a481265c-a4d8-4d1a-9ae1-48eb3f7fccb4@62.238.51.180:1234?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#Finland%20%F0%9F%87%AB%F0%9F%87%AE",
+    "ping": "2547ms",
+    "ip": "62.238.51.180",
+    "country": "Finland",
+    "countryCode": "FI",
+    "city": "Helsinki",
+    "ISP": "Hetzner Online GmbH"
+  },
+  {
+    "remark": "server103",
+    "link": "vless://5de3f60c-7cc2-4f66-9177-706a2693dc19@62.238.55.96:1234?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#Finland%20%F0%9F%87%AB%F0%9F%87%AE",
+    "ping": "2688ms",
+    "ip": "62.238.55.96",
+    "country": "Finland",
+    "countryCode": "FI",
+    "city": "Helsinki",
+    "ISP": "Hetzner Online GmbH"
+  },
+  {
+    "remark": "server104",
+    "link": "vmess://eyJ2IjoiMiIsInBzIjoiSG9uZyBLb25nIFx1ZDgzY1x1ZGRlZFx1ZDgzY1x1ZGRmMCIsImFkZCI6InUyZnJ4ajBnMTN2ZGkwd28udi4zZG5zLnZpcCIsInBvcnQiOiI0NDMiLCJ0eXBlIjoibm9uZSIsImlkIjoiZjIzYmI0MjdjMWY5NDM3Mzg3NmMyZjQzZTlmNzkwZjMiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL3dzLXZtZXNzIiwiaG9zdCI6IlUyRlJ4ajBHMTN2REkwV28udi4zZG5zLnZpcCIsInRscyI6InRscyIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9",
+    "ping": "3205ms",
+    "ip": "8.210.108.58",
+    "country": "Hong Kong",
+    "countryCode": "HK",
+    "city": "Hong Kong",
+    "ISP": "Alibaba.com LLC"
+  },
+  {
+    "remark": "server105",
+    "link": "vless://b91abe1a-80ca-417b-998b-2b542661c16f@ip.feywebsite.ir:2083?path=%2Fapi%2Fv1%2Fstream&security=tls&alpn=h2&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=tr.feyland.ir#Curacao%20%F0%9F%87%A8%F0%9F%87%BC",
+    "ping": "3351ms",
+    "ip": "2a01:f900:10:6b0::1",
+    "country": "Turkey",
+    "countryCode": "TR",
+    "city": "Ataşehir",
+    "ISP": "Netlen Internet Hizmetleri Ltd. Sti."
+  },
+  {
+    "remark": "server106",
+    "link": "vless://4d10c997-4781-4cd9-82c3-15453523e12c@108.162.198.5:443?encryption=none&host=support.zoom.us.yxls.eu.cc&path=%2Fsg-melbi&security=tls&sni=support.zoom.us.yxls.eu.cc&type=ws#United%20States%20%F0%9F%87%BA%F0%9F%87%B8",
+    "ping": "3444ms",
+    "ip": "91.192.81.154",
+    "country": "Singapore",
+    "countryCode": "SG",
+    "city": "Singapore",
+    "ISP": "Melbikomas UAB"
+  },
+  {
+    "remark": "server107",
+    "link": "vless://4d10c997-4781-4cd9-82c3-15453523e12c@104.25.244.217:443?encryption=none&fp=chrome&host=support.zoom.us.yxls.eu.cc&path=%2Fsg-melbi&security=tls&sni=support.zoom.us.yxls.eu.cc&type=ws#Cloudflare%20%F0%9F%8C%90",
+    "ping": "3454ms",
+    "ip": "91.192.81.154",
+    "country": "Singapore",
+    "countryCode": "SG",
+    "city": "Singapore",
+    "ISP": "Melbikomas UAB"
+  },
+  {
+    "remark": "server108",
+    "link": "vmess://eyJ2IjoiMiIsInBzIjoiSG9uZyBLb25nIFx1ZDgzY1x1ZGRlZFx1ZDgzY1x1ZGRmMCIsImFkZCI6Im10Y2t1bmRpZ2Vwd3UzdXAudi4zZG5zLnZpcCIsInBvcnQiOiI0NDMiLCJ0eXBlIjoibm9uZSIsImlkIjoiZjIzYmI0MjdjMWY5NDM3Mzg3NmMyZjQzZTlmNzkwZjMiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL3dzLXZtZXNzIiwiaG9zdCI6Im1UQ0tVTkRpR2VQd1UzdVAudi4zZG5zLnZpcCIsInRscyI6InRscyIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9",
+    "ping": "3704ms",
+    "ip": "47.243.92.155",
+    "country": "Hong Kong",
+    "countryCode": "HK",
+    "city": "Hong Kong",
+    "ISP": "Alibaba Cloud LLC"
+  },
+  {
+    "remark": "server109",
+    "link": "vmess://eyJ2IjoiMiIsInBzIjoiSG9uZyBLb25nIFx1ZDgzY1x1ZGRlZFx1ZDgzY1x1ZGRmMCIsImFkZCI6Im0wMWM3YjJ6MjZkdHFnZWUudi4zZG5zLnZpcCIsInBvcnQiOiI0NDMiLCJ0eXBlIjoibm9uZSIsImlkIjoiZjIzYmI0MjdjMWY5NDM3Mzg3NmMyZjQzZTlmNzkwZjMiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL3dzLXZtZXNzIiwiaG9zdCI6Ik0wMWM3QjJ6MjZEdFFHRWUudi4zZG5zLnZpcCIsInRscyI6InRscyIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9",
+    "ping": "4171ms",
+    "ip": "47.76.197.72",
+    "country": "Hong Kong",
+    "countryCode": "HK",
+    "city": "Hong Kong",
+    "ISP": "Alibaba Cloud LLC"
+  },
+  {
+    "remark": "server110",
+    "link": "vless://4d10c997-4781-4cd9-82c3-15453523e12c@198.41.209.80:443?encryption=none&fp=chrome&host=support.zoom.us.yxls.eu.cc&path=%2Fsg-melbi&security=tls&sni=support.zoom.us.yxls.eu.cc&type=ws#Cloudflare%20%F0%9F%8C%90",
+    "ping": "4539ms",
+    "ip": "91.192.81.154",
+    "country": "Singapore",
+    "countryCode": "SG",
+    "city": "Singapore",
+    "ISP": "Melbikomas UAB"
+  },
+  {
     "remark": "server111",
-    "link": "vmess://eyJ2IjoiMiIsInBzIjoiSG9uZyBLb25nIFx1ZDgzY1x1ZGRlZFx1ZDgzY1x1ZGRmMCIsImFkZCI6Inp1ZHNzZ3RtcnFnOWxwdmkudi4zZG5zLnZpcCIsInBvcnQiOiI0NDMiLCJ0eXBlIjoibm9uZSIsImlkIjoiZjIzYmI0MjdjMWY5NDM3Mzg3NmMyZjQzZTlmNzkwZjMiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL3dzLXZtZXNzIiwiaG9zdCI6InpVRHNzZ1RNUnFnOUxwdkkudi4zZG5zLnZpcCIsInRscyI6InRscyIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9",
-    "ping": "4120ms",
-    "ip": "47.243.10.180",
+    "link": "vmess://eyJ2IjoiMiIsInBzIjoiSG9uZyBLb25nIFx1ZDgzY1x1ZGRlZFx1ZDgzY1x1ZGRmMCIsImFkZCI6IjkzdWNybjRpMHBmZnVhYmsudi4zZG5zLnZpcCIsInBvcnQiOiI0NDMiLCJ0eXBlIjoibm9uZSIsImlkIjoiZjIzYmI0MjdjMWY5NDM3Mzg3NmMyZjQzZTlmNzkwZjMiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL3dzLXZtZXNzIiwiaG9zdCI6IjkzdWNybjRpMFBmZlVBYmsudi4zZG5zLnZpcCIsInRscyI6InRscyIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9",
+    "ping": "4628ms",
+    "ip": "47.76.44.32",
     "country": "Hong Kong",
     "countryCode": "HK",
     "city": "Hong Kong",
@@ -1111,32 +1111,12 @@
   },
   {
     "remark": "server112",
-    "link": "vmess://eyJhZGQiOiIxOTUuMTMzLjE5My4xOCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI5OGUyYmUzYy04Zjg0LTRiODUtOTk2Yi1iNjhkY2MyZmJjYjYiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicGNzIjoiIiwicG9ydCI6IjI3NzI2IiwicHMiOiJHZXJtYW55IFx1ZDgzY1x1ZGRlOVx1ZDgzY1x1ZGRlYSIsInNjeSI6ImNoYWNoYTIwLXBvbHkxMzA1Iiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9",
-    "ping": "4250ms",
-    "ip": "2605:e440:1::3:26",
+    "link": "vless://9b44bfb4-9d28-4870-9fc3-5154d6d462ff@194.87.161.60:4100?path=%2Fv1&security=&encryption=none&type=ws#Russia%20%F0%9F%87%B7%F0%9F%87%BA",
+    "ping": "4877ms",
+    "ip": "2604:86c0:f001:39:ff7f:1dd:afbb:ac5a",
     "country": "Germany",
     "countryCode": "DE",
-    "city": "Frankfurt am Main",
-    "ISP": "Baxet Group Inc."
-  },
-  {
-    "remark": "server113",
-    "link": "vless://4d10c997-4781-4cd9-82c3-15453523e12c@104.16.239.120:443?encryption=none&fp=chrome&host=support.zoom.us.yxls.eu.cc&path=%2Fsg-melbi&security=tls&sni=support.zoom.us.yxls.eu.cc&type=ws#Cloudflare%20%F0%9F%8C%90",
-    "ping": "4365ms",
-    "ip": "91.192.81.154",
-    "country": "Singapore",
-    "countryCode": "SG",
-    "city": "Singapore",
-    "ISP": "Melbikomas UAB"
-  },
-  {
-    "remark": "server114",
-    "link": "vless://4d10c997-4781-4cd9-82c3-15453523e12c@188.114.97.3:443?encryption=none&fp=chrome&host=support.zoom.us.yxls.eu.cc&path=%2Fsg-melbi&security=tls&sni=support.zoom.us.yxls.eu.cc&type=ws#Cloudflare%20%F0%9F%8C%90",
-    "ping": "4798ms",
-    "ip": "91.192.81.154",
-    "country": "Singapore",
-    "countryCode": "SG",
-    "city": "Singapore",
-    "ISP": "Melbikomas UAB"
+    "city": "Frankfurt",
+    "ISP": "GTHost"
   }
 ]
