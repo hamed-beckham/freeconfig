@@ -1,5 +1,5 @@
 {
-  "total": 154,
+  "total": 114,
   "countryLimit": 20,
   "countries": [
     {
@@ -8,19 +8,14 @@
       "count": 20
     },
     {
-      "country": "Germany",
-      "code": "DE",
-      "count": 20
-    },
-    {
-      "country": "United States",
-      "code": "US",
-      "count": 20
-    },
-    {
       "country": "Singapore",
       "code": "SG",
-      "count": 15
+      "count": 20
+    },
+    {
+      "country": "Germany",
+      "code": "DE",
+      "count": 16
     },
     {
       "country": "The Netherlands",
@@ -28,9 +23,9 @@
       "count": 14
     },
     {
-      "country": "United Kingdom",
-      "code": "GB",
-      "count": 12
+      "country": "United States",
+      "code": "US",
+      "count": 14
     },
     {
       "country": "Hong Kong",
@@ -38,38 +33,28 @@
       "count": 10
     },
     {
-      "country": "South Korea",
-      "code": "KR",
-      "count": 10
-    },
-    {
-      "country": "Taiwan",
-      "code": "TW",
-      "count": 10
-    },
-    {
-      "country": "Japan",
-      "code": "JP",
-      "count": 9
-    },
-    {
       "country": "Finland",
       "code": "FI",
       "count": 5
     },
     {
-      "country": "Switzerland",
-      "code": "CH",
-      "count": 2
+      "country": "United Kingdom",
+      "code": "GB",
+      "count": 4
     },
     {
-      "country": "Canada",
-      "code": "CA",
-      "count": 1
+      "country": "South Korea",
+      "code": "KR",
+      "count": 3
     },
     {
-      "country": "Kazakhstan",
-      "code": "KZ",
+      "country": "Taiwan",
+      "code": "TW",
+      "count": 3
+    },
+    {
+      "country": "Japan",
+      "code": "JP",
       "count": 1
     },
     {
@@ -78,18 +63,13 @@
       "count": 1
     },
     {
-      "country": "Russia",
-      "code": "RU",
+      "country": "Spain",
+      "code": "ES",
       "count": 1
     },
     {
-      "country": "Thailand",
-      "code": "TH",
-      "count": 1
-    },
-    {
-      "country": "Turkey",
-      "code": "TR",
+      "country": "Switzerland",
+      "code": "CH",
       "count": 1
     },
     {
