@@ -1,5 +1,5 @@
 {
-  "total": 182,
+  "total": 177,
   "countryLimit": 20,
   "countries": [
     {
@@ -10,6 +10,11 @@
     {
       "country": "Germany",
       "code": "DE",
+      "count": 20
+    },
+    {
+      "country": "Singapore",
+      "code": "SG",
       "count": 20
     },
     {
@@ -30,17 +35,12 @@
     {
       "country": "Japan",
       "code": "JP",
-      "count": 19
-    },
-    {
-      "country": "Singapore",
-      "code": "SG",
-      "count": 17
+      "count": 11
     },
     {
       "country": "United Kingdom",
       "code": "GB",
-      "count": 10
+      "count": 11
     },
     {
       "country": "Hong Kong",
@@ -48,14 +48,14 @@
       "count": 9
     },
     {
-      "country": "Finland",
-      "code": "FI",
-      "count": 3
+      "country": "Ireland",
+      "code": "IE",
+      "count": 5
     },
     {
-      "country": "Russia",
-      "code": "RU",
-      "count": 3
+      "country": "Türkiye",
+      "code": "TR",
+      "count": 4
     },
     {
       "country": "Switzerland",
@@ -68,19 +68,9 @@
       "count": 3
     },
     {
-      "country": "Türkiye",
-      "code": "TR",
-      "count": 3
-    },
-    {
-      "country": "Australia",
-      "code": "AU",
-      "count": 1
-    },
-    {
-      "country": "Azerbaijan",
-      "code": "AZ",
-      "count": 1
+      "country": "Finland",
+      "code": "FI",
+      "count": 2
     },
     {
       "country": "Bulgaria",
@@ -93,13 +83,13 @@
       "count": 1
     },
     {
-      "country": "India",
-      "code": "IN",
+      "country": "Estonia",
+      "code": "EE",
       "count": 1
     },
     {
-      "country": "Ireland",
-      "code": "IE",
+      "country": "India",
+      "code": "IN",
       "count": 1
     },
     {
@@ -113,11 +103,6 @@
       "count": 1
     },
     {
-      "country": "Malaysia",
-      "code": "MY",
-      "count": 1
-    },
-    {
       "country": "Poland",
       "code": "PL",
       "count": 1
@@ -128,8 +113,8 @@
       "count": 1
     },
     {
-      "country": "Vietnam",
-      "code": "VN",
+      "country": "Sweden",
+      "code": "SE",
       "count": 1
     }
   ]
