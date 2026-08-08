@@ -1,5 +1,5 @@
 {
-  "total": 197,
+  "total": 184,
   "countryLimit": 20,
   "countries": [
     {
@@ -10,16 +10,6 @@
     {
       "country": "Germany",
       "code": "DE",
-      "count": 20
-    },
-    {
-      "country": "Japan",
-      "code": "JP",
-      "count": 20
-    },
-    {
-      "country": "Singapore",
-      "code": "SG",
       "count": 20
     },
     {
@@ -38,6 +28,21 @@
       "count": 20
     },
     {
+      "country": "Singapore",
+      "code": "SG",
+      "count": 19
+    },
+    {
+      "country": "Japan",
+      "code": "JP",
+      "count": 16
+    },
+    {
+      "country": "Finland",
+      "code": "FI",
+      "count": 9
+    },
+    {
       "country": "Hong Kong",
       "code": "HK",
       "count": 9
@@ -45,11 +50,11 @@
     {
       "country": "Ireland",
       "code": "IE",
-      "count": 7
+      "count": 5
     },
     {
-      "country": "Finland",
-      "code": "FI",
+      "country": "United Kingdom",
+      "code": "GB",
       "count": 5
     },
     {
@@ -58,23 +63,8 @@
       "count": 4
     },
     {
-      "country": "United Kingdom",
-      "code": "GB",
-      "count": 4
-    },
-    {
-      "country": "Australia",
-      "code": "AU",
-      "count": 3
-    },
-    {
       "country": "Russia",
       "code": "RU",
-      "count": 3
-    },
-    {
-      "country": "Sweden",
-      "code": "SE",
       "count": 3
     },
     {
@@ -88,33 +78,18 @@
       "count": 3
     },
     {
-      "country": "Canada",
-      "code": "CA",
-      "count": 2
-    },
-    {
-      "country": "India",
-      "code": "IN",
-      "count": 2
-    },
-    {
       "country": "Taiwan",
       "code": "TW",
       "count": 2
     },
     {
-      "country": "Ukraine",
-      "code": "UA",
-      "count": 2
-    },
-    {
-      "country": "Bulgaria",
-      "code": "BG",
+      "country": "Canada",
+      "code": "CA",
       "count": 1
     },
     {
-      "country": "Israel",
-      "code": "IL",
+      "country": "India",
+      "code": "IN",
       "count": 1
     },
     {
@@ -123,13 +98,18 @@
       "count": 1
     },
     {
-      "country": "Saudi Arabia",
-      "code": "SA",
+      "country": "Serbia",
+      "code": "RS",
       "count": 1
     },
     {
-      "country": "Spain",
-      "code": "ES",
+      "country": "Sweden",
+      "code": "SE",
+      "count": 1
+    },
+    {
+      "country": "United Arab Emirates",
+      "code": "AE",
       "count": 1
     }
   ]
