@@ -1,5 +1,5 @@
 {
-  "total": 144,
+  "total": 133,
   "countryLimit": 20,
   "countries": [
     {
@@ -18,14 +18,9 @@
       "count": 20
     },
     {
-      "country": "Germany",
-      "code": "DE",
-      "count": 19
-    },
-    {
       "country": "South Korea",
       "code": "KR",
-      "count": 13
+      "count": 12
     },
     {
       "country": "Hong Kong",
@@ -35,7 +30,12 @@
     {
       "country": "Singapore",
       "code": "SG",
-      "count": 6
+      "count": 9
+    },
+    {
+      "country": "Germany",
+      "code": "DE",
+      "count": 8
     },
     {
       "country": "Poland",
@@ -55,11 +55,6 @@
     {
       "country": "Finland",
       "code": "FI",
-      "count": 3
-    },
-    {
-      "country": "Sweden",
-      "code": "SE",
       "count": 3
     },
     {
@@ -103,18 +98,23 @@
       "count": 1
     },
     {
-      "country": "Norway",
-      "code": "NO",
-      "count": 1
-    },
-    {
       "country": "Russia",
       "code": "RU",
       "count": 1
     },
     {
+      "country": "Sweden",
+      "code": "SE",
+      "count": 1
+    },
+    {
       "country": "Switzerland",
       "code": "CH",
+      "count": 1
+    },
+    {
+      "country": "Taiwan",
+      "code": "TW",
       "count": 1
     },
     {
