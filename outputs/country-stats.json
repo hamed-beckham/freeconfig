@@ -1,5 +1,5 @@
 {
-  "total": 222,
+  "total": 197,
   "countryLimit": 20,
   "countries": [
     {
@@ -13,16 +13,6 @@
       "count": 20
     },
     {
-      "country": "Singapore",
-      "code": "SG",
-      "count": 20
-    },
-    {
-      "country": "South Korea",
-      "code": "KR",
-      "count": 20
-    },
-    {
       "country": "The Netherlands",
       "code": "NL",
       "count": 20
@@ -33,14 +23,19 @@
       "count": 20
     },
     {
-      "country": "Japan",
-      "code": "JP",
-      "count": 17
+      "country": "Singapore",
+      "code": "SG",
+      "count": 18
     },
     {
       "country": "Poland",
       "code": "PL",
-      "count": 16
+      "count": 15
+    },
+    {
+      "country": "South Korea",
+      "code": "KR",
+      "count": 13
     },
     {
       "country": "Finland",
@@ -48,19 +43,19 @@
       "count": 12
     },
     {
-      "country": "United Kingdom",
-      "code": "GB",
-      "count": 11
-    },
-    {
       "country": "Hong Kong",
       "code": "HK",
+      "count": 10
+    },
+    {
+      "country": "United Kingdom",
+      "code": "GB",
       "count": 9
     },
     {
-      "country": "Sweden",
-      "code": "SE",
-      "count": 7
+      "country": "Russia",
+      "code": "RU",
+      "count": 6
     },
     {
       "country": "Estonia",
@@ -68,9 +63,14 @@
       "count": 5
     },
     {
-      "country": "Switzerland",
-      "code": "CH",
-      "count": 3
+      "country": "Japan",
+      "code": "JP",
+      "count": 4
+    },
+    {
+      "country": "Sweden",
+      "code": "SE",
+      "count": 4
     },
     {
       "country": "Australia",
@@ -80,11 +80,6 @@
     {
       "country": "Brazil",
       "code": "BR",
-      "count": 2
-    },
-    {
-      "country": "Czechia",
-      "code": "CZ",
       "count": 2
     },
     {
@@ -98,8 +93,13 @@
       "count": 2
     },
     {
-      "country": "Russia",
-      "code": "RU",
+      "country": "Switzerland",
+      "code": "CH",
+      "count": 2
+    },
+    {
+      "country": "Taiwan",
+      "code": "TW",
       "count": 2
     },
     {
@@ -130,11 +130,6 @@
     {
       "country": "Romania",
       "code": "RO",
-      "count": 1
-    },
-    {
-      "country": "Taiwan",
-      "code": "TW",
       "count": 1
     },
     {
