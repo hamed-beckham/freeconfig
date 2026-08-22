@@ -1,15 +1,10 @@
 {
-  "total": 207,
+  "total": 173,
   "countryLimit": 20,
   "countries": [
     {
       "country": "France",
       "code": "FR",
-      "count": 20
-    },
-    {
-      "country": "Germany",
-      "code": "DE",
       "count": 20
     },
     {
@@ -33,29 +28,19 @@
       "count": 20
     },
     {
-      "country": "Finland",
-      "code": "FI",
-      "count": 18
+      "country": "Germany",
+      "code": "DE",
+      "count": 17
     },
     {
-      "country": "Japan",
-      "code": "JP",
-      "count": 14
+      "country": "Finland",
+      "code": "FI",
+      "count": 16
     },
     {
       "country": "Hong Kong",
       "code": "HK",
       "count": 12
-    },
-    {
-      "country": "South Korea",
-      "code": "KR",
-      "count": 10
-    },
-    {
-      "country": "United Kingdom",
-      "code": "GB",
-      "count": 6
     },
     {
       "country": "Australia",
@@ -68,24 +53,14 @@
       "count": 5
     },
     {
-      "country": "Sweden",
-      "code": "SE",
-      "count": 3
-    },
-    {
-      "country": "Switzerland",
-      "code": "CH",
-      "count": 3
+      "country": "United Kingdom",
+      "code": "GB",
+      "count": 5
     },
     {
       "country": "Russia",
       "code": "RU",
       "count": 2
-    },
-    {
-      "country": "Bulgaria",
-      "code": "BG",
-      "count": 1
     },
     {
       "country": "Estonia",
@@ -103,6 +78,16 @@
       "count": 1
     },
     {
+      "country": "Japan",
+      "code": "JP",
+      "count": 1
+    },
+    {
+      "country": "Kazakhstan",
+      "code": "KZ",
+      "count": 1
+    },
+    {
       "country": "Latvia",
       "code": "LV",
       "count": 1
@@ -115,6 +100,11 @@
     {
       "country": "Malaysia",
       "code": "MY",
+      "count": 1
+    },
+    {
+      "country": "Switzerland",
+      "code": "CH",
       "count": 1
     },
     {
