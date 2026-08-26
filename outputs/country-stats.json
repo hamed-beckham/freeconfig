@@ -1,5 +1,5 @@
 {
-  "total": 159,
+  "total": 145,
   "countryLimit": 20,
   "countries": [
     {
@@ -18,24 +18,19 @@
       "count": 20
     },
     {
+      "country": "France",
+      "code": "FR",
+      "count": 17
+    },
+    {
       "country": "Singapore",
       "code": "SG",
-      "count": 18
+      "count": 15
     },
     {
       "country": "Japan",
       "code": "JP",
-      "count": 14
-    },
-    {
-      "country": "South Korea",
-      "code": "KR",
-      "count": 14
-    },
-    {
-      "country": "France",
-      "code": "FR",
-      "count": 11
+      "count": 10
     },
     {
       "country": "Poland",
@@ -43,24 +38,14 @@
       "count": 9
     },
     {
-      "country": "United Kingdom",
-      "code": "GB",
+      "country": "South Korea",
+      "code": "KR",
       "count": 8
     },
     {
       "country": "Canada",
       "code": "CA",
-      "count": 5
-    },
-    {
-      "country": "Russia",
-      "code": "RU",
-      "count": 4
-    },
-    {
-      "country": "Sweden",
-      "code": "SE",
-      "count": 4
+      "count": 3
     },
     {
       "country": "Hong Kong",
@@ -68,8 +53,13 @@
       "count": 3
     },
     {
-      "country": "Estonia",
-      "code": "EE",
+      "country": "Russia",
+      "code": "RU",
+      "count": 3
+    },
+    {
+      "country": "Italy",
+      "code": "IT",
       "count": 2
     },
     {
@@ -78,9 +68,29 @@
       "count": 2
     },
     {
-      "country": "Switzerland",
-      "code": "CH",
+      "country": "United Kingdom",
+      "code": "GB",
       "count": 2
+    },
+    {
+      "country": "Australia",
+      "code": "AU",
+      "count": 1
+    },
+    {
+      "country": "Bulgaria",
+      "code": "BG",
+      "count": 1
+    },
+    {
+      "country": "Estonia",
+      "code": "EE",
+      "count": 1
+    },
+    {
+      "country": "Finland",
+      "code": "FI",
+      "count": 1
     },
     {
       "country": "India",
@@ -90,6 +100,26 @@
     {
       "country": "Lithuania",
       "code": "LT",
+      "count": 1
+    },
+    {
+      "country": "Netherlands",
+      "code": "NL",
+      "count": 1
+    },
+    {
+      "country": "Spain",
+      "code": "ES",
+      "count": 1
+    },
+    {
+      "country": "Sweden",
+      "code": "SE",
+      "count": 1
+    },
+    {
+      "country": "Switzerland",
+      "code": "CH",
       "count": 1
     },
     {
