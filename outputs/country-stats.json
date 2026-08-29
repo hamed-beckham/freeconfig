@@ -1,7 +1,12 @@
 {
-  "total": 111,
+  "total": 110,
   "countryLimit": 20,
   "countries": [
+    {
+      "country": "France",
+      "code": "FR",
+      "count": 20
+    },
     {
       "country": "The Netherlands",
       "code": "NL",
@@ -13,29 +18,19 @@
       "count": 20
     },
     {
-      "country": "France",
-      "code": "FR",
-      "count": 16
-    },
-    {
       "country": "Germany",
       "code": "DE",
-      "count": 12
+      "count": 10
     },
     {
       "country": "Poland",
       "code": "PL",
-      "count": 10
+      "count": 9
     },
     {
       "country": "Latvia",
       "code": "LV",
       "count": 6
-    },
-    {
-      "country": "Russia",
-      "code": "RU",
-      "count": 5
     },
     {
       "country": "Canada",
@@ -48,13 +43,13 @@
       "count": 3
     },
     {
-      "country": "Netherlands",
-      "code": "NL",
+      "country": "Russia",
+      "code": "RU",
       "count": 3
     },
     {
-      "country": "Brazil",
-      "code": "BR",
+      "country": "Hong Kong",
+      "code": "HK",
       "count": 2
     },
     {
@@ -63,18 +58,23 @@
       "count": 2
     },
     {
+      "country": "Singapore",
+      "code": "SG",
+      "count": 2
+    },
+    {
       "country": "United Kingdom",
       "code": "GB",
       "count": 2
     },
     {
-      "country": "Estonia",
-      "code": "EE",
+      "country": "Brazil",
+      "code": "BR",
       "count": 1
     },
     {
-      "country": "Hong Kong",
-      "code": "HK",
+      "country": "Estonia",
+      "code": "EE",
       "count": 1
     },
     {
@@ -83,17 +83,22 @@
       "count": 1
     },
     {
+      "country": "Italy",
+      "code": "IT",
+      "count": 1
+    },
+    {
+      "country": "Netherlands",
+      "code": "NL",
+      "count": 1
+    },
+    {
       "country": "Seychelles",
       "code": "SC",
       "count": 1
     },
     {
-      "country": "Singapore",
-      "code": "SG",
-      "count": 1
-    },
-    {
-      "country": "Turkey",
+      "country": "Türkiye",
       "code": "TR",
       "count": 1
     }
