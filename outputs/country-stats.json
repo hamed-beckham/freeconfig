@@ -1,12 +1,7 @@
 {
-  "total": 132,
+  "total": 116,
   "countryLimit": 20,
   "countries": [
-    {
-      "country": "France",
-      "code": "FR",
-      "count": 20
-    },
     {
       "country": "The Netherlands",
       "code": "NL",
@@ -20,7 +15,12 @@
     {
       "country": "Germany",
       "code": "DE",
-      "count": 15
+      "count": 16
+    },
+    {
+      "country": "France",
+      "code": "FR",
+      "count": 10
     },
     {
       "country": "Poland",
@@ -28,14 +28,9 @@
       "count": 10
     },
     {
-      "country": "Japan",
-      "code": "JP",
-      "count": 8
-    },
-    {
-      "country": "Singapore",
-      "code": "SG",
-      "count": 8
+      "country": "Finland",
+      "code": "FI",
+      "count": 7
     },
     {
       "country": "Latvia",
@@ -48,13 +43,8 @@
       "count": 5
     },
     {
-      "country": "South Korea",
-      "code": "KR",
-      "count": 4
-    },
-    {
-      "country": "Hong Kong",
-      "code": "HK",
+      "country": "Japan",
+      "code": "JP",
       "count": 3
     },
     {
@@ -63,38 +53,38 @@
       "count": 3
     },
     {
+      "country": "Singapore",
+      "code": "SG",
+      "count": 3
+    },
+    {
+      "country": "United Kingdom",
+      "code": "GB",
+      "count": 3
+    },
+    {
+      "country": "Hong Kong",
+      "code": "HK",
+      "count": 2
+    },
+    {
+      "country": "Italy",
+      "code": "IT",
+      "count": 2
+    },
+    {
       "country": "Lithuania",
       "code": "LT",
       "count": 2
     },
     {
-      "country": "United Kingdom",
-      "code": "GB",
+      "country": "Netherlands",
+      "code": "NL",
       "count": 2
     },
     {
       "country": "Brazil",
       "code": "BR",
-      "count": 1
-    },
-    {
-      "country": "Estonia",
-      "code": "EE",
-      "count": 1
-    },
-    {
-      "country": "India",
-      "code": "IN",
-      "count": 1
-    },
-    {
-      "country": "Italy",
-      "code": "IT",
-      "count": 1
-    },
-    {
-      "country": "Netherlands",
-      "code": "NL",
       "count": 1
     },
     {
