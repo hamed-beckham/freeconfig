@@ -13,14 +13,14 @@
       "count": 20
     },
     {
-      "country": "France",
-      "code": "FR",
-      "count": 11
-    },
-    {
       "country": "Germany",
       "code": "DE",
       "count": 11
+    },
+    {
+      "country": "France",
+      "code": "FR",
+      "count": 10
     },
     {
       "country": "Poland",
@@ -33,19 +33,14 @@
       "count": 6
     },
     {
+      "country": "Russia",
+      "code": "RU",
+      "count": 6
+    },
+    {
       "country": "Latvia",
       "code": "LV",
       "count": 5
-    },
-    {
-      "country": "Russia",
-      "code": "RU",
-      "count": 5
-    },
-    {
-      "country": "Singapore",
-      "code": "SG",
-      "count": 4
     },
     {
       "country": "Canada",
@@ -58,23 +53,38 @@
       "count": 3
     },
     {
+      "country": "Singapore",
+      "code": "SG",
+      "count": 3
+    },
+    {
+      "country": "Taiwan",
+      "code": "TW",
+      "count": 3
+    },
+    {
+      "country": "United Kingdom",
+      "code": "GB",
+      "count": 3
+    },
+    {
       "country": "Hong Kong",
       "code": "HK",
       "count": 2
     },
     {
-      "country": "United Kingdom",
-      "code": "GB",
+      "country": "South Korea",
+      "code": "KR",
       "count": 2
+    },
+    {
+      "country": "Brazil",
+      "code": "BR",
+      "count": 1
     },
     {
       "country": "Indonesia",
       "code": "ID",
-      "count": 1
-    },
-    {
-      "country": "Iran",
-      "code": "IR",
       "count": 1
     },
     {
@@ -83,33 +93,8 @@
       "count": 1
     },
     {
-      "country": "Netherlands",
-      "code": "NL",
-      "count": 1
-    },
-    {
       "country": "Sweden",
       "code": "SE",
-      "count": 1
-    },
-    {
-      "country": "Taiwan",
-      "code": "TW",
-      "count": 1
-    },
-    {
-      "country": "Thailand",
-      "code": "TH",
-      "count": 1
-    },
-    {
-      "country": "Turkey",
-      "code": "TR",
-      "count": 1
-    },
-    {
-      "country": "United Arab Emirates",
-      "code": "AE",
       "count": 1
     }
   ]
