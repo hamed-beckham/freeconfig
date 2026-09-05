@@ -1,26 +1,21 @@
 {
-  "total": 91,
+  "total": 79,
   "countryLimit": 20,
   "countries": [
     {
-      "country": "United States",
-      "code": "US",
-      "count": 16
-    },
-    {
       "country": "The Netherlands",
       "code": "NL",
-      "count": 15
+      "count": 14
+    },
+    {
+      "country": "United States",
+      "code": "US",
+      "count": 11
     },
     {
       "country": "Poland",
       "code": "PL",
-      "count": 10
-    },
-    {
-      "country": "Serbia",
-      "code": "RS",
-      "count": 7
+      "count": 9
     },
     {
       "country": "Singapore",
@@ -28,19 +23,29 @@
       "count": 7
     },
     {
-      "country": "Germany",
-      "code": "DE",
+      "country": "Norway",
+      "code": "NO",
+      "count": 6
+    },
+    {
+      "country": "Serbia",
+      "code": "RS",
       "count": 6
     },
     {
       "country": "Bulgaria",
       "code": "BG",
-      "count": 5
+      "count": 4
     },
     {
-      "country": "Norway",
-      "code": "NO",
-      "count": 5
+      "country": "Canada",
+      "code": "CA",
+      "count": 4
+    },
+    {
+      "country": "Germany",
+      "code": "DE",
+      "count": 4
     },
     {
       "country": "Moldova",
@@ -48,28 +53,18 @@
       "count": 4
     },
     {
-      "country": "Canada",
-      "code": "CA",
-      "count": 3
-    },
-    {
-      "country": "France",
-      "code": "FR",
-      "count": 2
-    },
-    {
       "country": "Italy",
       "code": "IT",
       "count": 2
     },
     {
-      "country": "Sweden",
-      "code": "SE",
-      "count": 2
-    },
-    {
       "country": "Albania",
       "code": "AL",
+      "count": 1
+    },
+    {
+      "country": "France",
+      "code": "FR",
       "count": 1
     },
     {
@@ -83,13 +78,13 @@
       "count": 1
     },
     {
-      "country": "South Korea",
-      "code": "KR",
+      "country": "Spain",
+      "code": "ES",
       "count": 1
     },
     {
-      "country": "Taiwan",
-      "code": "TW",
+      "country": "Sweden",
+      "code": "SE",
       "count": 1
     },
     {
