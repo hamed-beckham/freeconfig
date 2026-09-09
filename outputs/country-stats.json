@@ -1,11 +1,11 @@
 {
-  "total": 73,
+  "total": 57,
   "countryLimit": 20,
   "countries": [
     {
       "country": "The Netherlands",
       "code": "NL",
-      "count": 13
+      "count": 11
     },
     {
       "country": "United States",
@@ -13,28 +13,13 @@
       "count": 10
     },
     {
-      "country": "Serbia",
-      "code": "RS",
-      "count": 7
-    },
-    {
-      "country": "Bulgaria",
-      "code": "BG",
+      "country": "Singapore",
+      "code": "SG",
       "count": 6
-    },
-    {
-      "country": "Moldova",
-      "code": "MD",
-      "count": 5
     },
     {
       "country": "Poland",
       "code": "PL",
-      "count": 5
-    },
-    {
-      "country": "Singapore",
-      "code": "SG",
       "count": 5
     },
     {
@@ -43,23 +28,23 @@
       "count": 4
     },
     {
+      "country": "Bulgaria",
+      "code": "BG",
+      "count": 3
+    },
+    {
+      "country": "France",
+      "code": "FR",
+      "count": 3
+    },
+    {
       "country": "Canada",
       "code": "CA",
       "count": 2
     },
     {
-      "country": "Finland",
-      "code": "FI",
-      "count": 2
-    },
-    {
-      "country": "France",
-      "code": "FR",
-      "count": 2
-    },
-    {
-      "country": "India",
-      "code": "IN",
+      "country": "Italy",
+      "code": "IT",
       "count": 2
     },
     {
@@ -73,8 +58,23 @@
       "count": 2
     },
     {
-      "country": "Italy",
-      "code": "IT",
+      "country": "Taiwan",
+      "code": "TW",
+      "count": 2
+    },
+    {
+      "country": "Estonia",
+      "code": "EE",
+      "count": 1
+    },
+    {
+      "country": "Finland",
+      "code": "FI",
+      "count": 1
+    },
+    {
+      "country": "India",
+      "code": "IN",
       "count": 1
     },
     {
@@ -85,21 +85,6 @@
     {
       "country": "Kazakhstan",
       "code": "KZ",
-      "count": 1
-    },
-    {
-      "country": "Spain",
-      "code": "ES",
-      "count": 1
-    },
-    {
-      "country": "Taiwan",
-      "code": "TW",
-      "count": 1
-    },
-    {
-      "country": "United Kingdom",
-      "code": "GB",
       "count": 1
     }
   ]
