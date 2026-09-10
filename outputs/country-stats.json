@@ -1,36 +1,26 @@
 {
-  "total": 72,
+  "total": 59,
   "countryLimit": 20,
   "countries": [
     {
       "country": "The Netherlands",
       "code": "NL",
-      "count": 18
+      "count": 11
     },
     {
       "country": "United States",
       "code": "US",
-      "count": 9
+      "count": 10
     },
     {
       "country": "Singapore",
       "code": "SG",
-      "count": 8
-    },
-    {
-      "country": "Serbia",
-      "code": "RS",
       "count": 6
     },
     {
       "country": "Poland",
       "code": "PL",
       "count": 5
-    },
-    {
-      "country": "Moldova",
-      "code": "MD",
-      "count": 4
     },
     {
       "country": "France",
@@ -40,11 +30,6 @@
     {
       "country": "Germany",
       "code": "DE",
-      "count": 3
-    },
-    {
-      "country": "Norway",
-      "code": "NO",
       "count": 3
     },
     {
@@ -58,8 +43,23 @@
       "count": 2
     },
     {
+      "country": "India",
+      "code": "IN",
+      "count": 2
+    },
+    {
       "country": "Italy",
       "code": "IT",
+      "count": 2
+    },
+    {
+      "country": "Latvia",
+      "code": "LV",
+      "count": 2
+    },
+    {
+      "country": "Turkey",
+      "code": "TR",
       "count": 2
     },
     {
@@ -68,18 +68,28 @@
       "count": 1
     },
     {
+      "country": "Indonesia",
+      "code": "ID",
+      "count": 1
+    },
+    {
       "country": "Japan",
       "code": "JP",
       "count": 1
     },
     {
-      "country": "Latvia",
-      "code": "LV",
+      "country": "Moldova",
+      "code": "MD",
       "count": 1
     },
     {
-      "country": "South Korea",
-      "code": "KR",
+      "country": "Netherlands",
+      "code": "NL",
+      "count": 1
+    },
+    {
+      "country": "Serbia",
+      "code": "RS",
       "count": 1
     },
     {
@@ -88,13 +98,13 @@
       "count": 1
     },
     {
-      "country": "Taiwan",
-      "code": "TW",
+      "country": "Switzerland",
+      "code": "CH",
       "count": 1
     },
     {
-      "country": "Turkey",
-      "code": "TR",
+      "country": "Taiwan",
+      "code": "TW",
       "count": 1
     }
   ]
