@@ -1,21 +1,16 @@
 {
-  "total": 59,
+  "total": 50,
   "countryLimit": 20,
   "countries": [
     {
       "country": "The Netherlands",
       "code": "NL",
-      "count": 11
+      "count": 14
     },
     {
       "country": "United States",
       "code": "US",
-      "count": 10
-    },
-    {
-      "country": "Singapore",
-      "code": "SG",
-      "count": 6
+      "count": 9
     },
     {
       "country": "Poland",
@@ -23,19 +18,19 @@
       "count": 5
     },
     {
-      "country": "France",
-      "code": "FR",
-      "count": 3
+      "country": "Singapore",
+      "code": "SG",
+      "count": 5
     },
     {
       "country": "Germany",
       "code": "DE",
-      "count": 3
+      "count": 4
     },
     {
-      "country": "Bulgaria",
-      "code": "BG",
-      "count": 2
+      "country": "France",
+      "code": "FR",
+      "count": 3
     },
     {
       "country": "Canada",
@@ -43,33 +38,8 @@
       "count": 2
     },
     {
-      "country": "India",
-      "code": "IN",
-      "count": 2
-    },
-    {
       "country": "Italy",
       "code": "IT",
-      "count": 2
-    },
-    {
-      "country": "Latvia",
-      "code": "LV",
-      "count": 2
-    },
-    {
-      "country": "Turkey",
-      "code": "TR",
-      "count": 2
-    },
-    {
-      "country": "Finland",
-      "code": "FI",
-      "count": 1
-    },
-    {
-      "country": "Indonesia",
-      "code": "ID",
       "count": 1
     },
     {
@@ -78,18 +48,18 @@
       "count": 1
     },
     {
-      "country": "Moldova",
-      "code": "MD",
+      "country": "Latvia",
+      "code": "LV",
+      "count": 1
+    },
+    {
+      "country": "Lithuania",
+      "code": "LT",
       "count": 1
     },
     {
       "country": "Netherlands",
       "code": "NL",
-      "count": 1
-    },
-    {
-      "country": "Serbia",
-      "code": "RS",
       "count": 1
     },
     {
@@ -103,8 +73,8 @@
       "count": 1
     },
     {
-      "country": "Taiwan",
-      "code": "TW",
+      "country": "United Kingdom",
+      "code": "GB",
       "count": 1
     }
   ]
