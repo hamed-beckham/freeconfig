@@ -1,20 +1,20 @@
 {
-  "total": 66,
+  "total": 60,
   "countryLimit": 20,
   "countries": [
     {
       "country": "The Netherlands",
       "code": "NL",
-      "count": 16
-    },
-    {
-      "country": "Serbia",
-      "code": "RS",
-      "count": 8
+      "count": 15
     },
     {
       "country": "United States",
       "code": "US",
+      "count": 11
+    },
+    {
+      "country": "Serbia",
+      "code": "RS",
       "count": 8
     },
     {
@@ -23,18 +23,13 @@
       "count": 6
     },
     {
-      "country": "Moldova",
-      "code": "MD",
-      "count": 4
-    },
-    {
-      "country": "Sweden",
-      "code": "SE",
-      "count": 4
-    },
-    {
       "country": "Singapore",
       "code": "SG",
+      "count": 4
+    },
+    {
+      "country": "Germany",
+      "code": "DE",
       "count": 3
     },
     {
@@ -43,33 +38,28 @@
       "count": 2
     },
     {
+      "country": "Finland",
+      "code": "FI",
+      "count": 2
+    },
+    {
+      "country": "Sweden",
+      "code": "SE",
+      "count": 2
+    },
+    {
       "country": "France",
       "code": "FR",
-      "count": 2
+      "count": 1
     },
     {
       "country": "Italy",
       "code": "IT",
-      "count": 2
-    },
-    {
-      "country": "Estonia",
-      "code": "EE",
       "count": 1
     },
     {
-      "country": "Finland",
-      "code": "FI",
-      "count": 1
-    },
-    {
-      "country": "Germany",
-      "code": "DE",
-      "count": 1
-    },
-    {
-      "country": "India",
-      "code": "IN",
+      "country": "Moldova",
+      "code": "MD",
       "count": 1
     },
     {
@@ -78,28 +68,13 @@
       "count": 1
     },
     {
-      "country": "Romania",
-      "code": "RO",
-      "count": 1
-    },
-    {
-      "country": "South Korea",
-      "code": "KR",
-      "count": 1
-    },
-    {
-      "country": "Taiwan",
-      "code": "TW",
+      "country": "Thailand",
+      "code": "TH",
       "count": 1
     },
     {
       "country": "Türkiye",
       "code": "TR",
-      "count": 1
-    },
-    {
-      "country": "United Arab Emirates",
-      "code": "AE",
       "count": 1
     },
     {
