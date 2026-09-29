@@ -1,5 +1,5 @@
 {
-  "total": 67,
+  "total": 65,
   "countryLimit": 20,
   "countries": [
     {
@@ -28,13 +28,13 @@
       "count": 5
     },
     {
-      "country": "Singapore",
-      "code": "SG",
-      "count": 4
-    },
-    {
       "country": "Canada",
       "code": "CA",
+      "count": 3
+    },
+    {
+      "country": "Singapore",
+      "code": "SG",
       "count": 3
     },
     {
@@ -55,11 +55,6 @@
     {
       "country": "Finland",
       "code": "FI",
-      "count": 1
-    },
-    {
-      "country": "Indonesia",
-      "code": "ID",
       "count": 1
     },
     {
