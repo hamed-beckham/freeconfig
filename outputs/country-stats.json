@@ -5,16 +5,16 @@
     {
       "country": "The Netherlands",
       "code": "NL",
-      "count": 16
-    },
-    {
-      "country": "Serbia",
-      "code": "RS",
-      "count": 8
+      "count": 15
     },
     {
       "country": "United States",
       "code": "US",
+      "count": 9
+    },
+    {
+      "country": "Serbia",
+      "code": "RS",
       "count": 8
     },
     {
@@ -30,16 +30,16 @@
     {
       "country": "Singapore",
       "code": "SG",
-      "count": 5
+      "count": 4
+    },
+    {
+      "country": "United Arab Emirates",
+      "code": "AE",
+      "count": 3
     },
     {
       "country": "Moldova",
       "code": "MD",
-      "count": 3
-    },
-    {
-      "country": "Canada",
-      "code": "CA",
       "count": 2
     },
     {
@@ -65,6 +65,11 @@
     {
       "country": "Lithuania",
       "code": "LT",
+      "count": 1
+    },
+    {
+      "country": "South Korea",
+      "code": "KR",
       "count": 1
     },
     {
