@@ -1,11 +1,11 @@
 {
-  "total": 66,
+  "total": 59,
   "countryLimit": 20,
   "countries": [
     {
       "country": "The Netherlands",
       "code": "NL",
-      "count": 18
+      "count": 17
     },
     {
       "country": "Serbia",
@@ -15,41 +15,31 @@
     {
       "country": "United States",
       "code": "US",
-      "count": 6
-    },
-    {
-      "country": "Moldova",
-      "code": "MD",
-      "count": 5
+      "count": 8
     },
     {
       "country": "Bulgaria",
       "code": "BG",
-      "count": 4
+      "count": 5
     },
     {
-      "country": "Poland",
-      "code": "PL",
+      "country": "Moldova",
+      "code": "MD",
       "count": 4
-    },
-    {
-      "country": "Singapore",
-      "code": "SG",
-      "count": 4
-    },
-    {
-      "country": "France",
-      "code": "FR",
-      "count": 3
     },
     {
       "country": "Germany",
       "code": "DE",
-      "count": 2
+      "count": 3
     },
     {
-      "country": "India",
-      "code": "IN",
+      "country": "Singapore",
+      "code": "SG",
+      "count": 3
+    },
+    {
+      "country": "France",
+      "code": "FR",
       "count": 2
     },
     {
@@ -58,8 +48,18 @@
       "count": 2
     },
     {
-      "country": "Finland",
-      "code": "FI",
+      "country": "Japan",
+      "code": "JP",
+      "count": 2
+    },
+    {
+      "country": "Poland",
+      "code": "PL",
+      "count": 2
+    },
+    {
+      "country": "Canada",
+      "code": "CA",
       "count": 1
     },
     {
@@ -68,33 +68,8 @@
       "count": 1
     },
     {
-      "country": "Japan",
-      "code": "JP",
-      "count": 1
-    },
-    {
       "country": "Latvia",
       "code": "LV",
-      "count": 1
-    },
-    {
-      "country": "South Korea",
-      "code": "KR",
-      "count": 1
-    },
-    {
-      "country": "Sweden",
-      "code": "SE",
-      "count": 1
-    },
-    {
-      "country": "Thailand",
-      "code": "TH",
-      "count": 1
-    },
-    {
-      "country": "United Arab Emirates",
-      "code": "AE",
       "count": 1
     }
   ]
