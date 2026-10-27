@@ -1,75 +1,50 @@
 {
-  "total": 62,
+  "total": 42,
   "countryLimit": 20,
   "countries": [
     {
       "country": "The Netherlands",
       "code": "NL",
-      "count": 14
-    },
-    {
-      "country": "Serbia",
-      "code": "RS",
-      "count": 8
+      "count": 10
     },
     {
       "country": "Germany",
       "code": "DE",
-      "count": 7
+      "count": 6
     },
     {
       "country": "United States",
       "code": "US",
-      "count": 5
+      "count": 6
     },
     {
       "country": "Bulgaria",
       "code": "BG",
-      "count": 4
+      "count": 3
     },
     {
       "country": "Moldova",
       "code": "MD",
-      "count": 4
+      "count": 3
+    },
+    {
+      "country": "Serbia",
+      "code": "RS",
+      "count": 2
     },
     {
       "country": "Singapore",
       "code": "SG",
-      "count": 4
-    },
-    {
-      "country": "Japan",
-      "code": "JP",
       "count": 2
     },
     {
-      "country": "Russia",
-      "code": "RU",
-      "count": 2
-    },
-    {
-      "country": "Sweden",
-      "code": "SE",
-      "count": 2
-    },
-    {
-      "country": "Turkey",
-      "code": "TR",
-      "count": 2
-    },
-    {
-      "country": "Estonia",
-      "code": "EE",
+      "country": "Canada",
+      "code": "CA",
       "count": 1
     },
     {
-      "country": "Hong Kong",
-      "code": "HK",
-      "count": 1
-    },
-    {
-      "country": "India",
-      "code": "IN",
+      "country": "France",
+      "code": "FR",
       "count": 1
     },
     {
@@ -78,18 +53,33 @@
       "count": 1
     },
     {
-      "country": "Latvia",
-      "code": "LV",
+      "country": "Japan",
+      "code": "JP",
       "count": 1
     },
     {
-      "country": "Poland",
-      "code": "PL",
+      "country": "Russia",
+      "code": "RU",
+      "count": 1
+    },
+    {
+      "country": "South Korea",
+      "code": "KR",
       "count": 1
     },
     {
       "country": "Spain",
       "code": "ES",
+      "count": 1
+    },
+    {
+      "country": "Sweden",
+      "code": "SE",
+      "count": 1
+    },
+    {
+      "country": "Turkey",
+      "code": "TR",
       "count": 1
     },
     {
