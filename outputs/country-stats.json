@@ -10,17 +10,22 @@
     {
       "country": "United States",
       "code": "US",
-      "count": 9
-    },
-    {
-      "country": "Serbia",
-      "code": "RS",
-      "count": 7
+      "count": 8
     },
     {
       "country": "Bulgaria",
       "code": "BG",
-      "count": 4
+      "count": 6
+    },
+    {
+      "country": "Moldova",
+      "code": "MD",
+      "count": 5
+    },
+    {
+      "country": "Serbia",
+      "code": "RS",
+      "count": 5
     },
     {
       "country": "Germany",
@@ -28,19 +33,14 @@
       "count": 3
     },
     {
-      "country": "Singapore",
-      "code": "SG",
+      "country": "South Korea",
+      "code": "KR",
       "count": 3
     },
     {
-      "country": "Moldova",
-      "code": "MD",
+      "country": "Singapore",
+      "code": "SG",
       "count": 2
-    },
-    {
-      "country": "Hong Kong",
-      "code": "HK",
-      "count": 1
     },
     {
       "country": "Japan",
@@ -48,33 +48,18 @@
       "count": 1
     },
     {
-      "country": "Mexico",
-      "code": "MX",
-      "count": 1
-    },
-    {
-      "country": "Netherlands",
-      "code": "NL",
-      "count": 1
-    },
-    {
-      "country": "Poland",
-      "code": "PL",
-      "count": 1
-    },
-    {
-      "country": "South Korea",
-      "code": "KR",
-      "count": 1
-    },
-    {
-      "country": "Spain",
-      "code": "ES",
+      "country": "Lithuania",
+      "code": "LT",
       "count": 1
     },
     {
       "country": "Sweden",
       "code": "SE",
+      "count": 1
+    },
+    {
+      "country": "Türkiye",
+      "code": "TR",
       "count": 1
     },
     {
