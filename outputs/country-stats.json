@@ -1,5 +1,5 @@
 {
-  "total": 32,
+  "total": 29,
   "countryLimit": 20,
   "countries": [
     {
@@ -15,22 +15,22 @@
     {
       "country": "France",
       "code": "FR",
-      "count": 3
+      "count": 2
     },
     {
       "country": "Germany",
       "code": "DE",
-      "count": 3
-    },
-    {
-      "country": "Japan",
-      "code": "JP",
       "count": 2
     },
     {
       "country": "Singapore",
       "code": "SG",
       "count": 2
+    },
+    {
+      "country": "Japan",
+      "code": "JP",
+      "count": 1
     },
     {
       "country": "Switzerland",
