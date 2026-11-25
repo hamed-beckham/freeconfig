@@ -5,27 +5,27 @@
     {
       "country": "The Netherlands",
       "code": "NL",
-      "count": 14
+      "count": 13
     },
     {
       "country": "United States",
       "code": "US",
-      "count": 9
-    },
-    {
-      "country": "Latvia",
-      "code": "LV",
-      "count": 3
+      "count": 6
     },
     {
       "country": "Germany",
       "code": "DE",
-      "count": 2
+      "count": 4
     },
     {
       "country": "Singapore",
       "code": "SG",
-      "count": 2
+      "count": 3
+    },
+    {
+      "country": "Australia",
+      "code": "AU",
+      "count": 1
     },
     {
       "country": "Canada",
@@ -35,6 +35,21 @@
     {
       "country": "Hong Kong",
       "code": "HK",
+      "count": 1
+    },
+    {
+      "country": "Israel",
+      "code": "IL",
+      "count": 1
+    },
+    {
+      "country": "Italy",
+      "code": "IT",
+      "count": 1
+    },
+    {
+      "country": "Spain",
+      "code": "ES",
       "count": 1
     }
   ]
